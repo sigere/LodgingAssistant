@@ -1,0 +1,3331 @@
+{
+ "listing": {
+  "listing": {
+   "ads": [
+    {
+     "id": 752936229,
+     "isActive": true,
+     "createdTime": "2022-04-27T11:47:09+02:00",
+     "description": "Witam do wynajęcia mam piękną kawalerkę w Krakowie przy ul. Żwirowej.\u003cbr /\u003e\nMieszkanko jest praktycznie nowe /1 rok używane , wyposażone jest w sprzęty (zmywarka , piekarnik , wysoka lodówka , mikrofala, pralka) wszystko  wysokiej jakości , jak widać na zdjęciach, na wyposażeniu jest wygodna rozkładana kanapa . Mieszkanie będzie idealne dla pracującej osoby w Krakowie . Blok jest kameralny tylko 25 mieszkań , w bloku jest winda , a na dole w lokalu usługowym żabka. Pod blokiem do mieszkania przynależy naziemne miejsce postojowe ,w mieszkaniu jest bardzo duża , pojemna szafa, mieszkanko posiada spory balkon .Mieszkanie jest środkowe , ciepłe, o niskich kosztach utrzymania . Kaucja to 3000 tys zł. Zapraszam do kontaktu",
+     "title": "Kawalerka, Nowa , Kraków , Żwirowa z miejscem postojowym w cenie !!!",
+     "url": "https://www.olx.pl/d/oferta/kawalerka-nowa-krakow-zwirowa-z-miejscem-postojowym-w-cenie-CID3-IDOXf6J.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "26",
+       "value": "26 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "380",
+       "value": "380 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2300
+      }
+     }
+    },
+    {
+     "id": 670308386,
+     "isActive": true,
+     "createdTime": "2021-04-09T12:38:38+02:00",
+     "description": "Właściciel bezpośrednio wynajmie:\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie jednopokojowe z piękną, oddzielną kuchnią. \u003cbr /\u003e\nUl. Sas-Zubrzyckiego- świetnie skomunikowana z całym miastem- linie autobusowe (min. 179, 174,) i tramwajowe (min. 50, 24) oraz obrzeżami (204, 244). W pobliżu centra handlowe (Bonarka, Zakopianka), place targowe oraz Biedronki. \u003cbr /\u003e\n8 piętro gwarantuje ciszę oraz cudne widoki.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie przestronne- 37 m2, umeblowane i wyposażone.  \u003cbr /\u003e\nKuchnia w pełni wyposażona. \u003cbr /\u003e\nOgrzewanie miejskie, ciepła woda z MPEC. \u003cbr /\u003e\n\u003cbr /\u003e\nCzynsz (w zależności od zużycia ciepłej wody) ok. 550 zł. Dodatkowo wg licznika- prąd oraz gaz. Intenet we własnym zakresie.\u003cbr /\u003e\nKaucja: 2000\u003cbr /\u003e\n\u003cbr /\u003e\nNie odpowiadam na sms'y proszę o kontakt telefoniczny po godzinie 16.\u003cbr /\u003e\nMieszkanie dostępne od 23.02.2024",
+     "title": "Mieszkanie, ul. Sas-Zubrzyckiego",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-ul-sas-zubrzyckiego-CID3-IDJmxPA.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_8",
+       "value": "8"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "37",
+       "value": "37 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "580",
+       "value": "580 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2000
+      }
+     }
+    },
+    {
+     "id": 893649982,
+     "isActive": true,
+     "createdTime": "2024-01-28T00:50:06+01:00",
+     "description": "Szukasz komfortowego i przytulnego mieszkania do wynajęcia w sercu Krakowa? Mamy dla Ciebie wyjątkową ofertę!\u003cbr /\u003e\n\u003cbr /\u003e\nStara, piękna i zadbana kamienica z windą\u003cbr /\u003e\nPrzedstawiamy Państwu urokliwe mieszkanie o powierzchni 76 metrów kwadratowych, usytuowane na 4. piętrze pięknie zachowanej, zadbanej kamienicy z windą, przy ulicy Sienkiewicza w dzielnicy Krowodrza.\u003cbr /\u003e\n\u003cbr /\u003e\nGłówne cechy mieszkania:\u003cbr /\u003e\n- Powierzchnia: 76 m²\u003cbr /\u003e\n- Piętro: 4\u003cbr /\u003e\n- Lokalizacja: Kraków, dzielnica Krowodrza, ul. Sienkiewicza\u003cbr /\u003e\n- Liczba sypialni: 2 (duże)\u003cbr /\u003e\n- Salon z kuchnią i balkonem\u003cbr /\u003e\n- Łazienka z prysznicem\u003cbr /\u003e\n- Spiżarnia\u003cbr /\u003e\n- Umeblowane w całości (z wyjątkiem jednej sypialni)\u003cbr /\u003e\n\u003cbr /\u003e\nWarunki najmu:\u003cbr /\u003e\n- Maksymalna liczba osób: 2 pracujące (bez zwierząt)\u003cbr /\u003e\n- Typ najmu: Okazjonalny\u003cbr /\u003e\n- Warunek dodatkowy: Notarialnie potwierdzone poddanie się egzekucji\u003cbr /\u003e\n- Wolne od: 1 lutego 2024 r.\u003cbr /\u003e\n- Wynajmujący: Bezpośrednio od właściciela\u003cbr /\u003e\n\u003cbr /\u003e\nOpis mieszkania: To przestronne mieszkanie składa się z dwóch dużych sypialni, zapewniających komfortowy sen i prywatność. Jasny i przytulny salon połączony z kuchnią stworzą idealną przestrzeń do wspólnego spędzania czasu. Dodatkowym atutem jest balkon, na którym można cieszyć się świeżym powietrzem i widokiem na okolicę. Łazienka wyposażona jest w prysznic, co gwarantuje wygodę podczas codziennych rytuałów. Spiżarnia pozwoli na przechowywanie zapasów i utrzymanie porządku.\u003cbr /\u003e\n\u003cbr /\u003e\nLokalizacja: Nieruchomość znajduje się w dzielnicy Krowodrza, jednej z najbardziej pożądanych okolic Krakowa. W bliskiej odległości znajdują się liczne sklepy, restauracje oraz tereny rekreacyjne – w pobliżu park Grottgera i park Krakowski. Doskonałe połączenie komunikacyjne umożliwia szybki dostęp do innych części miasta. Zaledwie 2 przystanki od krakowskiego Rynku Głównego lub 15 minut pieszo przez ul. Karmelicką.\u003cbr /\u003e\n\u003cbr /\u003e\nCena:\u003cbr /\u003e\n- Cena wynajmu: 4500 zł miesięcznie + opłaty eksploatacyjne (około 400 zł)\u003cbr /\u003e\n- Kaucja: dwumiesięczny czynsz\u003cbr /\u003e\n\u003cbr /\u003e\nZapraszamy do bezpośredniego kontaktu z właścicielem pod numerem +39 339 4346975 (preferowany whatsapp).\u003cbr /\u003e\n\u003cbr /\u003e\nNie przegap tej unikatowej oferty!\u003cbr /\u003e\n\u003cbr /\u003e\nPowyższa oferta ma charakter informacyjny i nie stanowi oferty handlowej w rozumieniu art. 66 § 1 Kodeksu Cywilnego.\u003cbr /\u003e\n\u003cbr /\u003e\nENG:\u003cbr /\u003e\n\u003cbr /\u003e\nAre you looking for a comfortable and cozy flat to rent in the heart of Kraków? Here is an exceptional offer for you!\u003cbr /\u003e\n\u003cbr /\u003e\nBeautiful and well-kept apartment.\u003cbr /\u003e\nCharming 76 square meters, located on the 4th floor of a beautifully preserved building with and elevator, in Sienkiewicza Street (Krowodrza district).\u003cbr /\u003e\n\u003cbr /\u003e\nMain features of the flat:\u003cbr /\u003e\n- Area: 76 m²\u003cbr /\u003e\n- Floor: 4th\u003cbr /\u003e\n- Location: Kraków, Krowodrza district, Sienkiewicza street\u003cbr /\u003e\n- Number of bedrooms: 2 (large)\u003cbr /\u003e\n- Livingroom with kitchen and balcony\u003cbr /\u003e\n- Bathroom with shower\u003cbr /\u003e\n- Pantry\u003cbr /\u003e\n- Fully furnished (except 1 bedroom)\u003cbr /\u003e\n\u003cbr /\u003e\nRental conditions:\u003cbr /\u003e\n- Maximum number of people: 2 working (no pets)\u003cbr /\u003e\n- Type of tenancy: Occasional\u003cbr /\u003e\n- Available from: 1 February 2024\u003cbr /\u003e\n- Landlord: owner of the apartment\u003cbr /\u003e\n\u003cbr /\u003e\nFlat description: This spacious flat consists of two large bedrooms, providing comfortable sleep and privacy. The bright and cozy living room combined with the kitchen will create an ideal space for spending time together. An additional asset is the balcony, where you can enjoy the fresh air and the view of the surroundings. The bathroom is equipped with a shower, guaranteeing comfort during your daily rituals. The pantry will allow you to store your supplies and keep things in order.\u003cbr /\u003e\n\u003cbr /\u003e\nLocation: The property is located in the Krowodrza district, one of the most desirable areas of Kraków. In close proximity there are numerous shops, restaurants and recreational areas. The excellent transport connection enables quick access to other parts of the city. Just 2 stops from Krakow's Market Square or 15 minutes on foot via Karmelicka Street.\u003cbr /\u003e\n\u003cbr /\u003e\nPrice:\u003cbr /\u003e\n- Rental price: 4500 PLN per month + service charges (approximately 400 PLN)\u003cbr /\u003e\n- Deposit: two month's rent\u003cbr /\u003e\n\u003cbr /\u003e\nNO AGENCY\u003cbr /\u003e\n\u003cbr /\u003e\nFeel free to contact the owner directly at +39 339 4346975 (whatsapp preferred).\u003cbr /\u003e\n\u003cbr /\u003e\nDo not miss this unique offer!\u003cbr /\u003e\n\u003cbr /\u003e\nThe above offer is for information purposes only and does not constitute an offer within the meaning of Article 66 § 1 k.c.",
+     "title": "Mieszkanie ul. Sienkiewicza 3 pokoje wolne od zaraz",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-ul-sienkiewicza-3-pokoje-wolne-od-zaraz-CID3-IDYtFbo.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_4",
+       "value": "4"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "76",
+       "value": "76 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "three",
+       "value": "3 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "400",
+       "value": "400 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 4500
+      }
+     }
+    },
+    {
+     "id": 817357367,
+     "isActive": true,
+     "createdTime": "2023-02-23T22:34:23+01:00",
+     "description": "\u003cp\u003eBiałoprądnicka 32a, 40 m,2 pokoje ,bez prowizji\u003cbr /\u003e\nwynajmę kameralne mieszkanie 2 pokoje\u003cbr /\u003e\n+ osobna kuchnia ,łazienka, piwnica\u003cbr /\u003e\n1piętro\u003cbr /\u003e\nkameralne ,bardzo ciche, okna wychodzą na zieleń-ogród prywatnego domu\u003cbr /\u003e\nnowe meble kuchenne\u003cbr /\u003e\numeblowane\u003cbr /\u003e\nczynsz-\u003cbr /\u003e\nczynsz 2300+ ok 390 zł opłata administracyjna w tym zaliczki na woda ciepłą ,zimna ,ogrzewanie, śmieci, +opłaty za prąd i gaz\u003cbr /\u003e\nwolne od 1 marca \u003cbr /\u003e\ntel\u003cbr /\u003e\n(użyj formularza kontaktowego)\u003cbr /\u003e\nPiotr Plackowski\u003c/p\u003e",
+     "title": "2 pokoje,40m, Białoprądnicka ,bez prowizji",
+     "url": "https://www.olx.pl/d/oferta/2-pokoje-40m-bialopradnicka-bez-prowizji-CID3-IDTjxZl.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.09699596,
+      "lon": 19.93480875,
+      "radius": 0
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "40",
+       "value": "40 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2300
+      }
+     }
+    },
+    {
+     "id": 702068537,
+     "isActive": true,
+     "createdTime": "2021-09-16T14:37:41+02:00",
+     "description": "Witam, \u003cbr /\u003e\nWłaściciel oferuje mieszkanie 1-pokojowe na ul. Królewskiej, o powierzchni 34 m kw, \u003cbr /\u003e\npokój o powierzchni 15 m kw, oddzielna jasna kuchnia, duża łazienka, pomieszczenie gospodarcze, spiżarka, wygodny przedpokój. Mieszkanie jest bardzo ładne, jasne i ciche, kompleksowo umeblowane i wyposażone. \u003cbr /\u003e\n\u003cbr /\u003e\nDoskonała lokalizacja! Przy wyjściu z klatki schodowej znajduje się przystanek tramwajowy \"Biprostal\": linie 4, 8, 13, 14, 20, 24, oraz autobusowy. Mieszkanie na ul. Królewskiej, blisko UP, PK (zwłaszcza Wydziału Architektury), UJ, AGH i WSZiB. Mieszkanie jest ciche bo nie jest od strony ulicy.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie po całkowitym remoncie, wymienione instalacje, stolarka okienna PCV i parapet. W pokoju znajduje się nowa kanapa i dywan oraz szafa, biurko z fotelem, komoda, dywan, na podłodze zadbany parkiet. \u003cbr /\u003e\nW kuchni: meble z drewnianymi frontami, duża pojemna lodówko-zamrażarka Samsung, kuchnia gazowa z elektrycznym piekarnikiem pod zabudowę, okap, czajnik elektryczny, mikrofalówka, stolik i taborety. \u003cbr /\u003e\nŁazienka jest cała we flizach, wanna z zabudowanym prysznicem,  pralka firmy Candy i junkers, duże lustro na całą ścianę, oświetlenie punktowe halogenowe. \u003cbr /\u003e\nW pomieszczeniu gospodarczym 2 kosze na bieliznę, deska do prasowania, żelazko, odkurzacz, mop. W przedpokoju znajdują się nowe liczniki gazu i en.elektr. oraz duża, pakowna szafa z lustrami typu komador. \u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie wygodne dla 1 lub 2 osób niepalących.\u003cbr /\u003e\nDwustronne północ- południe. Kuchnia od strony północnej a pokój od strony południowej z widokiem na zieleń i Kopiec Kościuszki, słoneczne. \u003cbr /\u003e\n\u003cbr /\u003e\nOgrzewanie miejskie mpec.  \u003cbr /\u003e\nMieszkanie przestronne, ciche i wygodne.\u003cbr /\u003e\n\u003cbr /\u003e\nKoszty:\u003cbr /\u003e\nczynsz dla właściciela 2100 zł (odstępne) plus czynsz administracyjny 550 zł (w tym: zaliczka na c.o, wodę, śmieci, remont i sprzątanie), plus  gaz i energia elektryczna wg. zużycia (liczniki). Możliwość skorzystania z internetu z UPC, Orange lub Netia (mieszkanie okablowane). Właściciel przepisuje umowę na gaz i energię elektryczną na jednego z Najemców. \u003cbr /\u003e\nWymagana kaucja w wys. czynszu (2100 zł). \u003cbr /\u003e\n\u003cbr /\u003e\nMożliwość bezpłatnego parkowania pod blokiem tylko dla mieszkańców – po uprzednim uzyskaniu zezwolenia ZDM Kraków na dane auto (kartkę należy każdorazowo włożyć za szybę samochodu) – ilość miejsc ograniczona - wynosi do maks. 18 aut osobowych, miejsca nieoznaczone, obowiązuje zasada pierwszeństwa.\u003cbr /\u003e\n\u003cbr /\u003e\nZainteresowane Osoby proszę o kontakt sms lub telefoniczny.\u003cbr /\u003e\n\u003cbr /\u003e\nZapraszam do obejrzenia!\u003cbr /\u003e\n\u003cbr /\u003e\nDostępne od marca 2024 r.\u003cbr /\u003e\n\u003cbr /\u003e\nWynajmie właściciel:\u003cbr /\u003e\nAgnieszka\u003cbr /\u003e\n60*******68",
+     "title": "mieszkanie 1-pokojowe, Królewska, od właściciela, oddzielna kuchnia,",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-1-pokojowe-krolewska-od-wlasciciela-oddzielna-kuchnia-CID3-IDLwO65.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07289996,
+      "lon": 19.91485342,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_5",
+       "value": "5"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "34",
+       "value": "34 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "550",
+       "value": "550 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2100
+      }
+     }
+    },
+    {
+     "id": 836348699,
+     "isActive": true,
+     "createdTime": "2023-05-17T13:22:44+02:00",
+     "description": "We speak English. No Fee. English below.\u003cbr /\u003e\n\u003cbr /\u003e\nDo wynajęcia jasny ,nowoczesny apartament o powierzchni 27 m2 w wyjątkowej inwestycji Tarasy Verona przy ul.Kołowej/Armii Krajowej w Krakowie z dostępem do basenu, sauny,siłowni w cenie najmu.   \u003cbr /\u003e\n    \u003cbr /\u003e\nMieszkanie wolne, do wynajęcia od 1 marca. Możliwość obejrzenia mieszkania przed 1 marca.\u003cbr /\u003e\n\u003cbr /\u003e\nW sąsiedztwie inwestycji znajduje się zespół biurowców Newton, Edison, Galileo, Pascal oraz wiele innych, Akademia Górniczo Hutnicza, sklepy, stacja benzynowa, restauracje oraz tereny rekreacyjne jak Błonia czy Park Jordana. Przystanek autobusowy w odległości 50 m - linie 139, 173*********** 601.\u003cbr /\u003e\n\u003cbr /\u003e\nBUDYNEK:\u003cbr /\u003e\nTarasy Verona to kompleks dwóch nowoczesnych 13-kondygnacyjnych apartamentowców. Inwestycja charakteryzuje się doskonałym położeniem, nowoczesną architekturą, dbałością wykończenia oraz bezpieczeństwem. Teren inwestycji jest zadbany, ogrodzony i monitorowany. Do dyspozycji mieszkańców basen, jacuzzi, sauna, sala fitness, siłownia, stół do ping-ponga, plac zabaw oraz bawialnia dla dzieci. Wszystko w cenie wynajmu. Dzięki bardzo korzystnej lokalizacji szybko i sprawnie można dojechać zarówno do Rynku Głównego jaki na lotnisko Balice czy do autostrady A4.\u003cbr /\u003e\nBezpłatny ogólnodostępny parking na ogrodzonym terenie przynależnym do “Tarasy Verona”.\u003cbr /\u003e\nAPARTAMENT:\u003cbr /\u003e\nMieszkanie znajduje się na 6 piętrze i składa się z: \u003cbr /\u003e\n- przedpokoju z szafą \u003cbr /\u003e\n- łazienki z kabiną prysznicową oraz pralką   \u003cbr /\u003e\n- pokoju z aneksem kuchennym, z wyjściem na balkon    \u003cbr /\u003e\n\u003cbr /\u003e\nNa wyposażeniu kuchni: lodówka z zamrażarką, piekarnik, płyta elektryczna, zmywarka, pochłaniacz.\u003cbr /\u003e\nW pokoju rozkładana sofa, ława, stolik z krzesłami, regał i komoda z szufladami. Mieszkanie bardzo jasne, dobrze doświetlone, wystawa okien na wschód. Mieszkanie klimatyzowane!\u003cbr /\u003e\n\u003cbr /\u003e\nOPŁATY:\u003cbr /\u003e\n2200 zł czynsz najmu + około 630 zł opłaty eksploatacyjne (zawiera czynsz administracyjny, zaliczki na ogrzewanie, wodę, wywóz nieczystości) + prąd wg zużycia ok 100 zł\u003cbr /\u003e\nW opłacie administracyjnej zawarty jest nielimitowany dostęp do strefy basenowej ze spa (sauna, jacuzzi) oraz strefy fitness.\u003cbr /\u003e\nKaucja - 2200zł\u003cbr /\u003e\n\u003cbr /\u003e\nFor rent, a one-room apartment with an area of 27m2 in the exceptional Verona Terraces investment located at Kołowa/Armii Krajowej street in Krakow. The apartment is available from March 1st, and is perfect for 1-2 people.\u003cbr /\u003e\n\u003cbr /\u003e\nThe possibility of viewing the apartment before March 1st.\u003cbr /\u003e\n\u003cbr /\u003e\nIn the vicinity of the investment, there is a complex of office buildings - Newton, Edison, Galileo, Pascal, and many others, as well as the AGH University of Science and Technology, shops, a petrol station, restaurants, and recreational areas such as Błonia or Jordan Park. The bus stop is 50m away with bus lines 139, 173*********** 601.\u003cbr /\u003e\nBUILDING:\u003cbr /\u003e\nVerona Terraces is a complex of two modern 13-story apartment buildings. The investment is characterized by an excellent location, modern architecture, attention to finishing, and safety. The investment area is fenced and monitored. Residents have access to a swimming pool, jacuzzi, sauna, fitness room, gym, children's room and playground, and ping pong - all included in the rent. Thanks to its very convenient location, you can quickly and efficiently reach both the Main Market Square, Balice airport, and the A4 motorway. Free public parking is available in the fenced area belonging to \"Verona Terraces.\"\u003cbr /\u003e\n\u003cbr /\u003e\nAPARTMENT:\u003cbr /\u003e\nThe apartment is located on the 6th floor and consists of:\u003cbr /\u003e\nA hallway with a wardrobe\u003cbr /\u003e\nA bathroom with a shower cabin and a washing machine\u003cbr /\u003e\nA room with a kitchenette, with an exit to the balcony\u003cbr /\u003e\nThe kitchen is equipped with a fridge with a freezer, an oven, an electric hob, a dishwasher, and an extractor hood.\u003cbr /\u003e\nIn the room, there is a sofa bed, a table, and chairs. The apartment is very bright, well-lit, with windows facing east. Air condition\u003cbr /\u003e\nFEES:\u003cbr /\u003e\nThe rent is 2200 PLN + approximately ok 650 PLN for utilities (heating, water, garbage) + electricity. The administrative fee includes unlimited access to the pool area with a spa (sauna, jacuzzi) and fitness area.\u003cbr /\u003e\nDeposit 2200 zł\u003cbr /\u003e\nFor English speakers tel nr 7 8 1 4 1 0 6 0 9",
+     "title": "Apartament Tarasy Verona 27m2, BASEN, siłownia, klima - WŁAŚCICIEL",
+     "url": "https://www.olx.pl/d/oferta/apartament-tarasy-verona-27m2-basen-silownia-klima-wlasciciel-CID3-IDUBew9.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_6",
+       "value": "6"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "27",
+       "value": "27 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "650",
+       "value": "650 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2200
+      }
+     }
+    },
+    {
+     "id": 898500539,
+     "isActive": true,
+     "createdTime": "2024-02-18T18:53:22+01:00",
+     "description": "Wynajmę mieszkanie - studio 26 m2 przy ulicy Bieńczyckiej 15d w Krakowie\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie składa się:\u003cbr /\u003e\n- salon z aneksem kuchennym (lodówka, zmywarka, płyta indukcyjna, piekarnik)\u003cbr /\u003e\n- łazienka z prysznicem\u003cbr /\u003e\n- przedpokój - szafa wnękowa\u003cbr /\u003e\n- balkon\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie znajduje się na 2 piętrze w 6 piętrowym bloku z windą, na ogrodzonym osiedlu.\u003cbr /\u003e\n\u003cbr /\u003e\nOpłaty:\u003cbr /\u003e\n- czynsz najmu: 2100 zł\u003cbr /\u003e\n- czynsz administracyjny 350zł (w tym 4 m3 wody)\u003cbr /\u003e\n- prąd według zużycia (około 100zł)\u003cbr /\u003e\n- internet 50zł\u003cbr /\u003e\nKaucja 2100 zł\u003cbr /\u003e\n\u003cbr /\u003e\nW najbliższej okolicy\u003cbr /\u003e\n- tramwaje, autobusy\u003cbr /\u003e\n- duże centrum handlowe,\u003cbr /\u003e\n- szkoła,\u003cbr /\u003e\n- basen,\u003cbr /\u003e\n- park\u003cbr /\u003e\n- i inne usługi\u003cbr /\u003e\n\u003cbr /\u003e\nZapraszam do kontaktu i obejrzenia mieszkania.\u003cbr /\u003e\ntel: \u003cbr /\u003e\n664 \u003cbr /\u003e\n887\u003cbr /\u003e\n811",
+     "title": "Studio 26m - Kraków Bieńczycka",
+     "url": "https://www.olx.pl/d/oferta/studio-26m-krakow-bienczycka-CID3-IDYO12b.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "26",
+       "value": "26 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "500",
+       "value": "500 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2100
+      }
+     }
+    },
+    {
+     "id": 806357794,
+     "isActive": true,
+     "createdTime": "2023-01-07T00:35:05+01:00",
+     "description": "Mieszkanie wolne od zaraz.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie 37 m2,\u003cbr /\u003e\ndrugie piętro\u003cbr /\u003e\n2 pokoje w tym 1 przechodni\u003cbr /\u003e\nosobna kuchnia z oknem\u003cbr /\u003e\nłazienka z wanną\u003cbr /\u003e\nprzedpokój\u003cbr /\u003e\nbalkon\u003cbr /\u003e\n\u003cbr /\u003e\nW mieszkaniu jest światłowód pod internet oraz sprzęty takie jak mikrofalówka, pralka, lodówka, piekarnik\u003cbr /\u003e\n\u003cbr /\u003e\nDoskonała lokalizacja - w pobliżu przystanek autobusowy z szybkim połączeniem na krakowskie uczelnie a także do samego centrum miasta\u003cbr /\u003e\nW najbliższej okolicy znajdują się między innymi: sklepy (Żabki abki, Biedronka), Siłownia, przychodnia lekarska,apteka,kebab.\u003cbr /\u003e\n\u003cbr /\u003e\nopłaty:\u003cbr /\u003e\nwynajem 2200\u003cbr /\u003e\nczynsz za 2 osoby ok 480zł\u003cbr /\u003e\nopłaty za prąd,gaz,media\u003cbr /\u003e\n\u003cbr /\u003e\nkaucja w wysokości 1 miesięcznego czynszu\u003cbr /\u003e\n\u003cbr /\u003e\nUWAGA: dookoła strefa parkingowa\u003cbr /\u003e\n\u003cbr /\u003e\nTelefony do kontaktu\u003cbr /\u003e\n50*******60\u003cbr /\u003e\n78*******33",
+     "title": "Mieszkanie do wynajęcia Wójtowska, Wrocławska, centrum",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-wojtowska-wroclawska-centrum-CID3-IDSzouS.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "36",
+       "value": "36 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "480",
+       "value": "480 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2200
+      }
+     }
+    },
+    {
+     "id": 891498929,
+     "isActive": true,
+     "createdTime": "2024-01-17T22:44:22+01:00",
+     "description": "Na wynajem piękna przytulna kawalerka świeżutko po generalnym remoncie w świetnej lokalizacji.wszystko w mieszkaniu zostało wymienione na nowe- jeszcze nikt po remoncie w nim nie mieszkał .Ogrzewanie gazowe.Dostępne od zaraz.Czynsz dodatkowy zawiera zaliczkę za wodę i opłatę śmieci.Zapraszamy do kontaktu:-)Pośrednikom dziękujemy.",
+     "title": "Kawalerka sąsiedztwo Agh",
+     "url": "https://www.olx.pl/d/oferta/kawalerka-sasiedztwo-agh-CID3-IDYkDAZ.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "17",
+       "value": "17 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "170",
+       "value": "170 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2000
+      }
+     }
+    },
+    {
+     "id": 805678917,
+     "isActive": true,
+     "createdTime": "2023-01-03T18:55:37+01:00",
+     "description": "Wynajęcie bezpośrednio od właściciela.\u003cbr /\u003e\n\u003cbr /\u003e\n2 pokojowe mieszkanie 45 m2 na spokojnym osiedlu przy ul. Radzikowskiego (Azory), 1-pięto w 4-piętrowym bloku. Bardzo dobra komunikacja:\u003cbr /\u003e\n\u003cbr /\u003e\n150m do autobusu (linia 140) \u003cbr /\u003e\n550m do pętli autobusowej Azory (linie 130,138,140,168,173)\u003cbr /\u003e\n1000m do tramwaju, przy ul. Rydla (linie 4,8,13,14,24)\u003cbr /\u003e\n900m do stacji PKP Kraków Łobzów\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie po niedawnym remoncie w pełni umeblowane i wyposażone w sprzęt AGD (lodówka, pralka, piekarnik, płyta gazowa). Na podłodze parkiet i terakota. W łazience prysznic. Okna PCV. Jeden pokój niezależny + salon z aneksem kuchennym. \u003cbr /\u003e\nCiepła woda użytkowa oraz centralne ogrzewanie z MPEC.\u003cbr /\u003e\n\u003cbr /\u003e\nOferta dla osób pracujących i/lub studiujących bez zwierząt.\u003cbr /\u003e\n\u003cbr /\u003e\nNiski czynsz spółdzielni ok. 409 zł (w tym zaliczka na CO), możliwość aktywacji Internetu i TV z sieci UPC.\u003cbr /\u003e\n\u003cbr /\u003e\nOdstępne 2 200 zł\u003cbr /\u003e\nMieszkanie dostępne od zaraz.\u003cbr /\u003e\ntel. 60*******18",
+     "title": "Do wynajęcia 2-pokojowe bezpośrednio od właściciela",
+     "url": "https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-bezposrednio-od-wlasciciela-CID3-IDSvxTf.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "45",
+       "value": "45 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "409",
+       "value": "409 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2400
+      }
+     }
+    },
+    {
+     "id": 898478343,
+     "isActive": true,
+     "createdTime": "2024-02-18T17:40:26+01:00",
+     "description": "kawalerka 30 m do wynajęcia na Krowodrzy obok pętli Krowodrza Górka\u003cbr /\u003e\njasny pokój jasna kuchnia jasna łazienka balkon taras\u003cbr /\u003e\nogrzewanie miejskie, podana kwota zawiera wszystkie opłaty\u003cbr /\u003e\nna zdjęciach jest łóżko bez materaca ( ostatni najemcy mieli swoje ) jednak zapewniam do niego nowy materac w przypadku gdyby ktoś nie miał swojego łóżka\u003cbr /\u003e\ndodatkowo dochodzi kaucja\u003cbr /\u003e\n Preferowane będą  osoby pracujące, bez nałogów i zwierząt.\u003cbr /\u003e\nUmowa najem okazjonalny 1 rok (zgodnie z przepisami konieczne polskie obywatelstwo i alternatywny adres zameldowania w PL).",
+     "title": "kawalerka do wynajęcia 30 m pokój kuchnia balkon Krowodrza",
+     "url": "https://www.olx.pl/d/oferta/kawalerka-do-wynajecia-30-m-pokoj-kuchnia-balkon-krowodrza-CID3-IDYNWgb.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_5",
+       "value": "5"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "30",
+       "value": "30 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "1",
+       "value": "1 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 1950
+      }
+     }
+    },
+    {
+     "id": 897551233,
+     "isActive": true,
+     "createdTime": "2024-02-14T16:12:34+01:00",
+     "description": "Do wynajęcia mieszkanie, położone w pobliżu centrum Krakowa przy ulicy Poznańskiej 11. W pobliżu znajdują się: biedronka, , przedszkola, Szpital, przychodnie.\u003cbr /\u003e\nBudynek oddany do użytku 2017 r.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie o powierzchni 56 m2 znajduje się na 2 piętrze i składa się z:\u003cbr /\u003e\n- dużego salonu połączonego z aneksem kuchennym ( W zabudowie kuchennej sprzęt AGD w tym zmywarka, w salonie TV)\u003cbr /\u003e\n-  2 sypialni ( w obu znajdują się łóżka i komody w jednej jest również szafa)\u003cbr /\u003e\n- łazienki z wanną i prysznicem \u003cbr /\u003e\n-balkonu ok 4m.\u003cbr /\u003e\n- przedpokoju z dwoma dużymi szafami w zabudowie\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie wyposażone we wszystkie niezbędne rzeczy do codziennego użytku o bardzo dobrej jakości. Walorem mieszkania jest drewniana podłoga. Mieszkanie o ekspozycji północ-południe\u003cbr /\u003e\n\u003cbr /\u003e\nCałość wyposażenia: drobny sprzęt AGD: odkurzacz, czajnik, suszarka na bieliznę, zastawa\u003cbr /\u003e\nstołowa.\u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowe informacje:\u003cbr /\u003e\n- ogrzewanie miejskie\u003cbr /\u003e\n- monitorowane , ogrodzone osiedle. \u003cbr /\u003e\n-miejsce postojowe w garażu podziemnym.\u003cbr /\u003e\n\u003cbr /\u003e\nCENA mieszkania obejmuje :\u003cbr /\u003e\n- 4200 zł wynajem w tym miejsce postojowe w garażu\u003cbr /\u003e\n- 750 zł czynsz administracyjny ( w tym zaliczka na wodę i ogrzewanie ) \u003cbr /\u003e\n-  prąd w zależności od zużycia ( przy dwóch os. Średnio 80 zł/mc)\u003cbr /\u003e\n- internet 60 zł\u003cbr /\u003e\n -kaucja 4200 zł\u003cbr /\u003e\nDOSTĘPNE OD 26 LUTEGO.",
+     "title": "Mieszkanie na wynajem 56m2 ul. Poznańska 11 , z miejscem w garażu.",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-56m2-ul-poznanska-11-z-miejscem-w-garazu-CID3-IDYK24N.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "56",
+       "value": "56 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "three",
+       "value": "3 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "750",
+       "value": "750 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 4200
+      }
+     }
+    },
+    {
+     "id": 898469266,
+     "isActive": true,
+     "createdTime": "2024-02-18T17:10:47+01:00",
+     "description": "Do wynajęcia nowe  2-pokojowe  mieszkanie położone przy ul. Wrocławskiej  na przeciwko Urzędu Marszałkowskiego w Krakowie, doskonała lokalizacja w centrum, blok ogrodzony z zielenią wokół.\u003cbr /\u003e\nBEZPOŚREDNIO OD WŁASCICIELA!\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie około 46m2 położone jest na 3 piętrze w nowym budynku (z windą), na co składają się:\u003cbr /\u003e\n- salon z kuchnią umeblowany\u003cbr /\u003e\n- sypialnia umeblowana\u003cbr /\u003e\n- łazienka z wanną i prysznicem\u003cbr /\u003e\n- przedpokój z szafą\u003cbr /\u003e\n- balkon z widokiem na Kraków\u003cbr /\u003e\n\u003cbr /\u003e\nWOLNE OD 15 KWIETNIA!\u003cbr /\u003e\n\u003cbr /\u003e\nDODATKOWE INFORMACJE:\u003cbr /\u003e\n\u003cbr /\u003e\n- wysoki standard wykończenia,\u003cbr /\u003e\n- mieszkanie w pełni wyposażone i umeblowane,\u003cbr /\u003e\n- nowe budownictwo\u003cbr /\u003e\n- nowe mieszkanie\u003cbr /\u003e\n- ogrzewanie miejskie,\u003cbr /\u003e\n- kontrola dostępu - wejście na kod\u003cbr /\u003e\n- monitoring\u003cbr /\u003e\n- winda\u003cbr /\u003e\n- internet, tv\u003cbr /\u003e\n- balkon\u003cbr /\u003e\n- rowerownia na zew i wew\u003cbr /\u003e\n- darmowe miejsca parkingowe przed budynkiem\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie bardzo jasne i przestronne, urządzone w wysokim standardzie, w pełni umeblowane i wyposażone w sprzęt AGD:\u003cbr /\u003e\n- lodówka\u003cbr /\u003e\n- płyta elektryczna\u003cbr /\u003e\n- pralka\u003cbr /\u003e\n- mikrofala\u003cbr /\u003e\n- czajnik\u003cbr /\u003e\n- żelazko z deską do prasowania\u003cbr /\u003e\n- odkurzacz\u003cbr /\u003e\n\u003cbr /\u003e\nLOKALIZACJA:\u003cbr /\u003e\n\u003cbr /\u003e\nDużym atutem mieszkania jest LOKALIZACJA.\u003cbr /\u003e\nBardzo dobra komunikacja z całym miastem: 1 min pieszo do przystanku tramwajowego. \u003cbr /\u003e\nKilka minut pieszo do stacji PKP Kraków.\u003cbr /\u003e\nW pobliżu mnóstwo punktów usługowych. m.in. Żabka, Biedronkaapteka, bank, bankomaty,  siłownia, a także szkoła i przedszkole, przychodnia, szpital. W niewielkiej odległości znajduje się Galeria Krakowska i Rynek Głowny ok. 3km \u003cbr /\u003e\nMieszkanie idealne dla osób ceniących sobie spokojne życie bardzo blisko centrum miasta.\u003cbr /\u003e\n\u003cbr /\u003e\nCENA\u003cbr /\u003e\nCena wynajmu 3100zł +430zł zł czynsz z zaliczkami na media + prąd w rozliczeniu miesięcznym\u003cbr /\u003e\nKaucja: 3500 zł\u003cbr /\u003e\n\u003cbr /\u003e\nFOR RENT!\u003cbr /\u003e\n\u003cbr /\u003e\nFor rent a new 2-room beautiful apartment located at ul. Wrocławska in front of Urząd Marszałkowski, center of Kraków.\u003cbr /\u003e\nDIRECTLY FROM THE OWNER!\u003cbr /\u003e\n\u003cbr /\u003e\nAround 46m2 flat is located on the 3rd floor in a new building (with a lift), what happens:\u003cbr /\u003e\n- living room with kitchen\u003cbr /\u003e\n- bedroom\u003cbr /\u003e\n- bathroom\u003cbr /\u003e\n- hall with built-in wardrobe\u003cbr /\u003e\n- balcony with amazing view for Krakow\u003cbr /\u003e\n\u003cbr /\u003e\nADDITIONAL INFORMATION:\u003cbr /\u003e\n- high standard\u003cbr /\u003e\n- a fully furnished and equipped flat,\u003cbr /\u003e\n- modern building\u003cbr /\u003e\n- new flat\u003cbr /\u003e\n- district heating,\u003cbr /\u003e\n- code access control\u003cbr /\u003e\n-monitoring\u003cbr /\u003e\n- lift - internet, tv\u003cbr /\u003e\n- balcony\u003cbr /\u003e\n- a few parking spots available in the front of the building\u003cbr /\u003e\n- bike park outside and inside the building\u003cbr /\u003e\n\u003cbr /\u003e\n- FREE FROM April 15th\u003cbr /\u003e\n\u003cbr /\u003e\nThe apartment is very bright and spacious, furnished to a high standard, fully furnished and equipped with home appliances:\u003cbr /\u003e\n\u003cbr /\u003e\n- fridge\u003cbr /\u003e\n- electric oven\u003cbr /\u003e\n- electric hob\u003cbr /\u003e\n- Washing Machine\u003cbr /\u003e\n- dishwasher\u003cbr /\u003e\n- cattle\u003cbr /\u003e\n- microwave\u003cbr /\u003e\n- iron with desk\u003cbr /\u003e\n- vacucleaner\u003cbr /\u003e\n\u003cbr /\u003e\nLOCATION:\u003cbr /\u003e\nA big advantage of the apartment is LOCATION. Very good communication with the whole city: 1 min walk to the bus stop.\u003cbr /\u003e\nA few minutes on foot to the PKP Kraków . Near service points. among others Żabka, Biedronka pharmacy, bank, ATMs, hospital, gym, as well as school and kindergarten. A short distance away are Galeria Krakowska and Market Square.\u003cbr /\u003e\n\u003cbr /\u003e\nPRICE\u003cbr /\u003e\nLetting price: 3000PLN + 400 PLN, advance payment for the utilities + electricy as per monthly usage\u003cbr /\u003e\nDeposit: 3500 PLN",
+     "title": "Mieszkanie Wrocławska centrum 2 pokoje balkon na wynajem od kwietnia",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-wroclawska-centrum-2-pokoje-balkon-na-wynajem-od-kwietnia-CID3-IDYNSTM.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "46",
+       "value": "46 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "430",
+       "value": "430 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3100
+      }
+     }
+    },
+    {
+     "id": 898118547,
+     "isActive": true,
+     "createdTime": "2024-02-17T10:28:21+01:00",
+     "description": "Dzień dobry,\u003cbr /\u003e\nMam do zaoferowania przytulne mieszkanie z pięknym widokiem w apartamentowcu, na zbiegu al. Kijowskie z ul. Wrocławską w Krowodrzy. Mieszkanie jest bardzo przyjemne, jasne, świetnie zaprojektowane, idealne dla singla lub pary z przestronnym balkonem na 9 piętrze.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie o powierzchni 37,5m2, bardzo ergonomiczne, składa się z \u003cbr /\u003e\n- przedpokoju z szafą i komodą, \u003cbr /\u003e\n- kuchni w pełni wyposażonej+ miejsca do jedzenia, \u003cbr /\u003e\n- umeblowany salon z wysokiej klasy TV Samsung Qled, \u003cbr /\u003e\n- sypialnia z szafą w zabudowie, \u003cbr /\u003e\n- łazienka, \u003cbr /\u003e\n- balkon 7m2\u003cbr /\u003e\n- dwa miejsca rowerowe w podziemnej zamykanej rowerowni w cenie\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie jest świetnie zlokalizowane i skomunikowane \u003cbr /\u003e\n- blisko restauracji, sklepów (Żabka ten sam budynek), parku Młynówka Królewska, licznych boisk, skwerów i terenów zielonych\u003cbr /\u003e\n- spacerem 20 min do Rynku Głównego, 15m do dworca głównego, 15m do Błoń.\u003cbr /\u003e\n- 200m od dworca kolejowego Kraków-Łobzów (SKM/lotnisko+linia kolejowa do Katowic, Warszawy), w pobliżu licznych linii autobusowych i tramwajowych. \u003cbr /\u003e\n\u003cbr /\u003e\nNa prośbę mogę dosłać więcej zdjęć \u003cbr /\u003e\n\u003cbr /\u003e\nKoszt\u003cbr /\u003e\n- 2900 zł odstępnego\u003cbr /\u003e\n-  ok 650zł opłat z prądem i internetem\u003cbr /\u003e\n- 2000 zł zwrotnej kaucji\u003cbr /\u003e\n\u003cbr /\u003e\nKontakt\u003cbr /\u003e\n66*******28",
+     "title": "Piękne, widokowe mieszkanie Al. Kijowska (od właściciela)",
+     "url": "https://www.olx.pl/d/oferta/piekne-widokowe-mieszkanie-al-kijowska-od-wlasciciela-CID3-IDYMpF1.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_9",
+       "value": "9"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "37.5",
+       "value": "37,50 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "650",
+       "value": "650 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2900
+      }
+     }
+    },
+    {
+     "id": 889636232,
+     "isActive": true,
+     "createdTime": "2024-01-09T17:50:42+01:00",
+     "description": "Do wynajęcia słoneczne mieszkanie dwupokojowe z osobną kuchnią o powierzchni 52m2. Mieszkanie składa się z dwóch pokoi (20 i 11m2), dużego przedpokoju z obszerną szafą garderobianą oraz łazienki z wc. Z dużego pokoju wyjście na dużą loggię (balkon) od strony podwórka. Mieszkanie po gruntownym remoncie jest kompleksowo wyposażone. W mieszkaniu oszczędne oświetlenie LED oraz centralna ciepła woda użytkowa (CWU). Ekspozycja północ – południe zapewnia światło słoneczne przez cały dzień. Znakomita lokalizacja nieopodal Ronda Kotlarskiego zapewnia szybki transport miejski we wszystkich kierunkach. Około 20 minut spacerem do Rynku Głównego, galerii Kazimierz i M1. Bliskość Bulwarów Wiślanych. Mieszkanie wolne od zaraz. Do ceny wynajmu należy doliczyć czynsz do spółdzielni mieszkaniowej - około 686 zł, oraz prąd i gaz wg zużycia. W budynku dostępny jest szybki internet i TV od lokalnego dostawcy (taniego i rzetelnego sprawdzonego od blisko 20 lat).",
+     "title": "Aleja Pokoju - Śródmieście - Grzegórzki - 2 pokoje - 52m2 Duża loggia",
+     "url": "https://www.olx.pl/d/oferta/aleja-pokoju-srodmiescie-grzegorzki-2-pokoje-52m2-duza-loggia-CID3-IDYcP1u.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "52",
+       "value": "52 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "686",
+       "value": "686 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 898250735,
+     "isActive": true,
+     "createdTime": "2024-02-17T18:47:25+01:00",
+     "description": "Do wynajęcia mieszkanie w wyremontowanym, ocieplonym, ogrodzonym bloku przy ulicy Chocimskiej 1. W mieszkaniu mogą spać 4 osoby. Mieszkanie składa się z 2 sypialni, kuchni, łazienki, salonu oraz przestronnego przedpokoju. Mieszkanie w pełni wyposażone (pralka, lodówka, piekarnik, mikrofala, czajnik, odkurzacz, sztućce, talerze, szklanki itp).\u003cbr /\u003e\nMieszkanie jest bardzo przestronne i jasne, prawie 80 mkw z oknami na wschód oraz zachód.\u003cbr /\u003e\nW pierwszej sypialni znajdują się w dwa łóżka (tapczan oraz rozkladana sofa), szafa oraz 2 biurka.\u003cbr /\u003e\nW drugiej sypialni jest łóżko małżeńskie, kilka szaf, toaletka, telewizor oraz biurko.\u003cbr /\u003e\nPonadto w mieszkaniu znajduje się salon w którym stoją się dwa fotele, regał na książki, szafy i biurko (tak jak na zdjęciach).\u003cbr /\u003e\nMieszkanie posiada ogrzewanie miejskie CO i podłączony internet. \u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowo do wynajęcia garaż pod blokiem w cenie 300 PLN/msc\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie w odległości 20 minut pieszo od rynku głównego. Bardzo dobrze skomunikowane. Przystanek autobusowy w odległości 50m. Przystanek tramwajowy w odległości 400m (Urzędnicza). W pobliżu Carrefour, Aldi, biedronka, apteka, kościół, sporo barów i restauracji, Rossman, prężnie działający targ warzywny oraz sklepy całodobowe\u003cbr /\u003e\nJest też rowerownia do użytku wspólnego mieszkańców.\u003cbr /\u003e\n\u003cbr /\u003e\nWynajem bezpośrednio od właściciela, a więc brak prowizji dla pośrednika\u003cbr /\u003e\n\u003cbr /\u003e\nCena: 2300 PLN + czynsz (około 780 PLN obejmujący zaliczki na CO i wodę) + prąd (150-200 zł) + internet (78 zł)\u003cbr /\u003e\n\u003cbr /\u003e\nKaucja zwrotna 2500 zł\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie dostępne od 27 lutego\u003cbr /\u003e\n\u003cbr /\u003e\nUmowa na okres 12 miesięcy.",
+     "title": "Krowodrza | Chocimska |Mieszkanie 2 sypialnie | AGH, UP | Bezpośrednio",
+     "url": "https://www.olx.pl/d/oferta/krowodrza-chocimska-mieszkanie-2-sypialnie-agh-up-bezposrednio-CID3-IDYMY35.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "79",
+       "value": "79 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "780",
+       "value": "780 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2300
+      }
+     }
+    },
+    {
+     "id": 676100889,
+     "isActive": true,
+     "createdTime": "2021-05-05T23:17:37+02:00",
+     "description": "Dostępne od zaraz, idealne dla dwóch, trzech dorosłych osób. Możliwość wystawienia faktury za wynajem.\u003cbr /\u003e\nMieszkanie położone jest przy ul. Łokietka i ul. Wrocławskiej, w zadbanej, przedwojennej kamienicy, na I piętrze, ma powierzchnię 38 m2. Mieszkanie składa się z: pokoju przechodniego z rozkładaną sofą, do którego przylega w pełni wyposażony aneks kuchenny oraz z niezależnej, dużej sypialni z łóżkiem małżeńskim. W kuchni: naczynia i sztućce, zlew jednokomorowy, czajnik elektryczny, kuchenka elektryczna czteropolowa, piekarnik, lodówka, okap kuchenny. W łazience: wc, umywalka, prysznic, pralka.\u003cbr /\u003e\nMieszkanie jest po remoncie, w pełni umeblowane i wyposażone. Przynależy do niego 8 m2 piwnica. Ogrzewanie trójfazowe piece akumulacyjno-dynamiczne z elektronicznym systemem sterowania, w łazience – bojler. Kamienica usytuowana jest w centrum miasta, w okolicach Nowego Kleparza, który stanowi węzeł komunikacji miejskiej i pozamiejskiej. Jest to doskonała baza wypadowa na wszelkie uczelnie oraz do Rynku i Starego Miasta (ok. 2 km), a także do rekreacyjnych terenów zielonych Krakowa: Park Jordana, Błonia (ok. 2 km). \u003cbr /\u003e\n\u003cbr /\u003e\nOpłaty:\u003cbr /\u003e\nWynajem: 2300 PLN,\u003cbr /\u003e\nKaucja: 2300 PLN (płatna w dwóch ratach),\u003cbr /\u003e\nKoszty administracyjne, czynsz wraz z wodą i wywozem nieczystości dla dwóch osób: 450 PLN, prąd wg zużycia.",
+     "title": "Dwupokojowe Krowodrza - Łokietka blisko Kleparza, bez prowizji",
+     "url": "https://www.olx.pl/d/oferta/dwupokojowe-krowodrza-lokietka-blisko-kleparza-bez-prowizji-CID3-IDJKQJ3.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "67",
+       "value": "67 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "450",
+       "value": "450 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2300
+      }
+     }
+    },
+    {
+     "id": 893152818,
+     "isActive": true,
+     "createdTime": "2024-01-25T15:43:12+01:00",
+     "description": "Do wynajęcia kawalerka 25 m2 na ulicy Poznańskiej w Krakowie. Idealna dla singla, singielki lub pary. 6 piętro. Winda. Dobra lokalizacja, dobra cena. Niskie opłaty. Mieszkanie jest odnowione po ostatnim lokatorze. Przy budynku ogólnodostępne miejsca parkingowe dla osób posiadających identyfikator.\u003cbr /\u003e\nW bliskiej odległości Galeria Krakowska, Dworzec Główny PKP, Dworzec Autobusowy,  rozwinięta infrastruktura usługowo-handlowa. \u003cbr /\u003e\n\u003cbr /\u003e\ntelefon 60*****53",
+     "title": "Kawalerka Kraków Poznańska",
+     "url": "https://www.olx.pl/d/oferta/kawalerka-krakow-poznanska-CID3-IDYrzQC.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_6",
+       "value": "6"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "25",
+       "value": "25 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "300",
+       "value": "300 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2200
+      }
+     }
+    },
+    {
+     "id": 633358105,
+     "isActive": true,
+     "createdTime": "2020-10-08T16:21:17+02:00",
+     "description": "Do wynajęcia nowe  2-pokojowe  mieszkanie położone przy ul. Wrocławskiej  na przeciwko Urzędu Marszałkowskiego w Krakowie, centrum.\u003cbr /\u003e\nBEZPOŚREDNIO OD WŁASCICIELA!\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie około 46m2 położone jest na 3 piętrze w nowym budynku (z windą), na co składają się:\u003cbr /\u003e\n- salon z kuchnią umeblowany\u003cbr /\u003e\n- sypialnia umeblowana\u003cbr /\u003e\n- łazienka z wanną i prysznicem\u003cbr /\u003e\n- przedpokój z szafą\u003cbr /\u003e\n- balkon z widokiem na Kraków\u003cbr /\u003e\n\u003cbr /\u003e\nWOLNE OD 15 KWIETNIA!\u003cbr /\u003e\n\u003cbr /\u003e\nDODATKOWE INFORMACJE:\u003cbr /\u003e\n\u003cbr /\u003e\n- wysoki standard wykończenia,\u003cbr /\u003e\n- mieszkanie w pełni wyposażone i umeblowane,\u003cbr /\u003e\n- nowe budownictwo\u003cbr /\u003e\n- nowe mieszkanie\u003cbr /\u003e\n- ogrzewanie miejskie,\u003cbr /\u003e\n- kontrola dostępu - wejście na kod\u003cbr /\u003e\n- monitoring\u003cbr /\u003e\n- winda\u003cbr /\u003e\n- internet, tv\u003cbr /\u003e\n- balkon\u003cbr /\u003e\n- rowerownia na zew i wew\u003cbr /\u003e\n- darmowe miejsca parkingowe przed budynkiem\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie bardzo jasne i przestronne, urządzone w wysokim standardzie, w pełni umeblowane i wyposażone w sprzęt AGD:\u003cbr /\u003e\n- lodówka\u003cbr /\u003e\n- płyta elektryczna\u003cbr /\u003e\n- pralka\u003cbr /\u003e\n- mikrofala\u003cbr /\u003e\n- czajnik\u003cbr /\u003e\n- żelazko z deską do prasowania\u003cbr /\u003e\n- odkurzacz\u003cbr /\u003e\n\u003cbr /\u003e\nLOKALIZACJA:\u003cbr /\u003e\n\u003cbr /\u003e\nDużym atutem mieszkania jest LOKALIZACJA.\u003cbr /\u003e\nBardzo dobra komunikacja z całym miastem: 1 min pieszo do przystanku tramwajowego. \u003cbr /\u003e\nKilka minut pieszo do stacji PKP Kraków.\u003cbr /\u003e\nW pobliżu mnóstwo punktów usługowych. m.in. Żabka, Biedronkaapteka, bank, bankomaty,  siłownia, a także szkoła i przedszkole, przychodnia, szpital. W niewielkiej odległości znajduje się Galeria Krakowska i Rynek Głowny ok. 3km \u003cbr /\u003e\nMieszkanie idealne dla osób ceniących sobie spokojne życie bardzo blisko centrum miasta.\u003cbr /\u003e\n\u003cbr /\u003e\nCENA\u003cbr /\u003e\nCena wynajmu 3100zł +430zł zł czynsz z zaliczkami na media + prąd w rozliczeniu miesięcznym\u003cbr /\u003e\nKaucja: 3500 zł\u003cbr /\u003e\n\u003cbr /\u003e\nFOR RENT!\u003cbr /\u003e\n\u003cbr /\u003e\nFor rent a new 2-room beautiful apartment located at ul. Wrocławska in front of Urząd Marszałkowski, center of Kraków.\u003cbr /\u003e\nDIRECTLY FROM THE OWNER!\u003cbr /\u003e\n\u003cbr /\u003e\nAround 46m2 flat is located on the 3rd floor in a new building (with a lift), what happens:\u003cbr /\u003e\n- living room with kitchen\u003cbr /\u003e\n- bedroom\u003cbr /\u003e\n- bathroom\u003cbr /\u003e\n- hall with built-in wardrobe\u003cbr /\u003e\n- balcony with amazing view for Krakow\u003cbr /\u003e\n\u003cbr /\u003e\nADDITIONAL INFORMATION:\u003cbr /\u003e\n- high standard\u003cbr /\u003e\n- a fully furnished and equipped flat,\u003cbr /\u003e\n- modern building\u003cbr /\u003e\n- new flat\u003cbr /\u003e\n- district heating,\u003cbr /\u003e\n- code access control\u003cbr /\u003e\n-monitoring\u003cbr /\u003e\n- lift - internet, tv\u003cbr /\u003e\n- balcony\u003cbr /\u003e\n- a few parking spots available in the front of the building\u003cbr /\u003e\n- bike park outside and inside the building\u003cbr /\u003e\n\u003cbr /\u003e\n- FREE FROM April 15th\u003cbr /\u003e\n\u003cbr /\u003e\nThe apartment is very bright and spacious, furnished to a high standard, fully furnished and equipped with home appliances:\u003cbr /\u003e\n\u003cbr /\u003e\n- fridge\u003cbr /\u003e\n- electric oven\u003cbr /\u003e\n- electric hob\u003cbr /\u003e\n- Washing Machine\u003cbr /\u003e\n- dishwasher\u003cbr /\u003e\n- cattle\u003cbr /\u003e\n- microwave\u003cbr /\u003e\n- iron with desk\u003cbr /\u003e\n- vacucleaner\u003cbr /\u003e\n\u003cbr /\u003e\nLOCATION:\u003cbr /\u003e\nA big advantage of the apartment is LOCATION. Very good communication with the whole city: 1 min walk to the bus stop.\u003cbr /\u003e\nA few minutes on foot to the PKP Kraków . Near service points. among others Żabka, Biedronka pharmacy, bank, ATMs, hospital, gym, as well as school and kindergarten. A short distance away are Galeria Krakowska and Market Square.\u003cbr /\u003e\n\u003cbr /\u003e\nPRICE\u003cbr /\u003e\nLetting price: 3000PLN + 400 PLN, advance payment for the utilities + electricy as per monthly usage\u003cbr /\u003e\nDeposit: 3500 PLN",
+     "title": "Wynajmę mieszkanie 2 pokoje balkon Wrocławska",
+     "url": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-balkon-wroclawska-CID3-IDGRwnj.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "45",
+       "value": "45 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "340",
+       "value": "340 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3100
+      }
+     }
+    },
+    {
+     "id": 898452731,
+     "isActive": true,
+     "createdTime": "2024-02-18T16:16:01+01:00",
+     "description": "Do wynajęcia od zaraz mieszkanie o powierzchni 110 m2 przy ul. Półłanki w dzielnicy Rybitwy.\u003cbr /\u003e\n\u003cbr /\u003e\nENGLISH VERSION BELOW\u003cbr /\u003e\n\u003cbr /\u003e\nLOKALIZACJA\u003cbr /\u003e\nDzielnica: Rybitwy\u003cbr /\u003e\nUlica: Półłanki\u003cbr /\u003e\nPrzystanek: Półłanki\u003cbr /\u003e\nW pobliżu: Komunikacja miejska, kompleks handlowy, restauracja mcdonald's\u003cbr /\u003e\n\u003cbr /\u003e\nMIESZKANIE\u003cbr /\u003e\nPiętro: 1/1\u003cbr /\u003e\nPowierzchnia: 110 m2\u003cbr /\u003e\nDodatkowo: miejsca postojowe naziemne w cenie najmu\u003cbr /\u003e\n\u003cbr /\u003e\nOPIS NIERUCHOMOŚCI\u003cbr /\u003e\nDo wynajęcia od zaraz mieszkanie o powierzchni 110 m2, znajduje się na pierwszym piętrze w jednopiętrowym budynku. Apartament znajduje się na ul. Półłanki. Nieruchomość składa się z 4 pokoi, 2 łazienek, aneksu kuchennego, korytarza. Trzystronna ekspozycja.\u003cbr /\u003e\nDo dyspozycji miejsca parkingowe naziemne.\u003cbr /\u003e\nWięcej informacji udzielę telefonicznie.\u003cbr /\u003e\nZapraszam do kontaktu i na prezentację.\u003cbr /\u003e\n\u003cbr /\u003e\nDODATKOWE INFORMACJE\u003cbr /\u003e\n- ogrzewanie gazowe\u003cbr /\u003e\n- dostępne od zaraz\u003cbr /\u003e\n- preferowana umowa na czas długoterminowy\u003cbr /\u003e\n\u003cbr /\u003e\nCENA\u003cbr /\u003e\n- 3900 zł czynsz najmu\u003cbr /\u003e\n- ok 1100 media\u003cbr /\u003e\n- 3900 zł kaucja zwrotna po okresie najmu\u003cbr /\u003e\n- prowizja dla biura nieruchomości\u003cbr /\u003e\n\u003cbr /\u003e\n-\u003cbr /\u003e\n\u003cbr /\u003e\nFor rent immediately: an apartment with an area of 110 m2 at ul. Półłanki in the Rybitwy district.\u003cbr /\u003e\n\u003cbr /\u003e\nLOCATION\u003cbr /\u003e\nDistrict: Tern\u003cbr /\u003e\nStreet: Półłanki\u003cbr /\u003e\nStop: Półłanki\u003cbr /\u003e\nNearby: public transport, shopping complex, McDonald's restaurant\u003cbr /\u003e\n\u003cbr /\u003e\nAPARTMENT\u003cbr /\u003e\nFloor: 1/1\u003cbr /\u003e\nArea: 110 m2\u003cbr /\u003e\nAdditionally: above-ground parking spaces included in the rental price\u003cbr /\u003e\n\u003cbr /\u003e\nDESCRIPTION OF THE PROPERTY\u003cbr /\u003e\nFor rent immediately, an apartment with an area of 110 m2, located on the first floor of a one-story building. The apartment is located on ul. Half-lanks. The property consists of 4 rooms, 2 bathrooms, kitchenette and corridor. Three-sided exposure.\u003cbr /\u003e\nAbove-ground parking spaces available.\u003cbr /\u003e\nI will provide more information by phone.\u003cbr /\u003e\nI invite you to contact me and for a presentation.\u003cbr /\u003e\n\u003cbr /\u003e\nADDITIONAL INFORMATION\u003cbr /\u003e\n- gas heating\u003cbr /\u003e\n- available immediately\u003cbr /\u003e\n- preferred long-term contract\u003cbr /\u003e\n\u003cbr /\u003e\nPRICE\u003cbr /\u003e\n- PLN 3,900 rent\u003cbr /\u003e\n- approx. 1100 utilities\u003cbr /\u003e\n- PLN 3,900 refundable deposit after the rental period\u003cbr /\u003e\n- commission for the real estate agency\u003cbr /\u003e\n\u003cbr /\u003e\nKontakt do Brokera:\u003cbr /\u003e\nAldona Bzdyl\u003cbr /\u003e\ntel.: +48**********76\u003cbr /\u003e\nI'm on Whatsapp",
+     "title": "ENG| 4 pokoje, 110 m2, parking naziemny",
+     "url": "https://www.olx.pl/d/oferta/eng-4-pokoje-110-m2-parking-naziemny-CID3-IDYNOB5.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "wolnostojacy",
+       "value": "Dom wolnostojący"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "110",
+       "value": "110 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "four",
+       "value": "4 i więcej"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "1100",
+       "value": "1 100 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3900
+      }
+     }
+    },
+    {
+     "id": 898426453,
+     "isActive": true,
+     "createdTime": "2024-02-18T14:51:43+01:00",
+     "description": "english version: \u003cbr /\u003e\navailable on request, please send an message\u003cbr /\u003e\n\u003cbr /\u003e\nDo wynajęcia od  zaraz mieszkanie:\u003cbr /\u003e\n\u003cbr /\u003e\n- lokalizacja: Bronowice, obok stadionu Bronowianka (spokojna ulica domów jednorodzinnych)\u003cbr /\u003e\n\u003cbr /\u003e\n- w budynku zlokalizowane dwa mieszkania, które łączy wspólne wejście i korytarz\u003cbr /\u003e\n\u003cbr /\u003e\n- mieszkanie na parterze, idealne dla kogoś kto potrzebuje osobnego gabinetu do pracy\u003cbr /\u003e\n\u003cbr /\u003e\n- bezproblemowe parkowanie - na ulicy lub na posesji\u003cbr /\u003e\n\u003cbr /\u003e\n- do ustalenia możliwość korzystania z garaży\u003cbr /\u003e\n\u003cbr /\u003e\nLokalizacja:\u003cbr /\u003e\n\u003cbr /\u003e\n- dzielnica Bronowice, ul. Justowska (zielona, spokojna i bezpieczna okolica)\u003cbr /\u003e\n\u003cbr /\u003e\n- bezproblemowe i bezpłatne parkowanie\u003cbr /\u003e\n\u003cbr /\u003e\n- w budynku zlokalizowane dwa mieszkania, które łączy wspólne wejście i korytarz (ogłoszenie dotyczy parteru)\u003cbr /\u003e\n\u003cbr /\u003e\n- dostęp do piwnicy/podwórka; możliwość przechowania np. roweru\u003cbr /\u003e\n\u003cbr /\u003e\n- dostęp do ogrodu\u003cbr /\u003e\n\u003cbr /\u003e\n- 5 min do przystanku autobusowego Zarzecze, 10 min do przystanku tramwajowego Bronowice SKA oraz szybkiej kolei\u003cbr /\u003e\n\u003cbr /\u003e\n- na osiedlu sklep Jubilat\u003cbr /\u003e\n\u003cbr /\u003e\n- w pobliżu Lidl, Lewiatan, Rossman, piekarnie i inne sklepy (w zasięgu spaceru)\u003cbr /\u003e\n\u003cbr /\u003e\n- kilka minut samochodem do Galerii Bronowice, Ikei\u003cbr /\u003e\n\u003cbr /\u003e\nWyposażenie:\u003cbr /\u003e\n\u003cbr /\u003e\n- obie łazienki z prysznicem\u003cbr /\u003e\n\u003cbr /\u003e\n- duży pokój z podwójnym łożkiem, 2xkomodą (ok 20m2), fotel - połączony z aneksem kuchennym oraz łazienką (ok 20mm2, nieprzechodni)\u003cbr /\u003e\n\u003cbr /\u003e\n- aneks kuchenny z płytą, mikrofalą, piekarnikiem, lodówką oraz dostęp do dodatkowej dużej zamrażarki w piwnicy\u003cbr /\u003e\n\u003cbr /\u003e\n- z wspólnego korytarza przejście do mniejszego pokoju z biurkiem, rozkładaną sofą/łożkiem (1 lub 2os), komodą (ok 12m2, nieprzechodni) oraz dodatkowej łazienki\u003cbr /\u003e\n\u003cbr /\u003e\n- dostęp do pralki w piwnicy\u003cbr /\u003e\n\u003cbr /\u003e\n- balkon\u003cbr /\u003e\n\u003cbr /\u003e\nCałość ok 45 m2.\u003cbr /\u003e\n\u003cbr /\u003e\nOpłaty:\u003cbr /\u003e\n\u003cbr /\u003e\nOdstępne 2500 zł + media + jednorazowa kaucja zwrotna (2500 zł + zaliczka na media)\u003cbr /\u003e\n\u003cbr /\u003e\nMedia:\u003cbr /\u003e\n\u003cbr /\u003e\n- internet Orange Światłowód (stała opłata 100 zł)\u003cbr /\u003e\n- wywóz śmieci (stała opłata 27 zł za osobę)\u003cbr /\u003e\n- ogrzewanie gazowe (nowoczesne piece w piwnicy) - ok 200 zł wrzesień-marzec, kwiecień lipiec ok 150 zł.\u003cbr /\u003e\n- prąd (ok 150 zł)\u003cbr /\u003e\n- woda (ok 25 - 50 zł na osobę)\u003cbr /\u003e\n(prognoza mediów na bazie naszych doświadczeń, zależy od faktycznego zuzyżycia)\u003cbr /\u003e\n\u003cbr /\u003e\nPrzy 2os media ok 500 zł, w okresie zimowym więcej w zależności od ilości ogrzewania.\u003cbr /\u003e\n\u003cbr /\u003e\nZwierzęta: do ustalenia (zwiększona kaucja)\u003cbr /\u003e\n\u003cbr /\u003e\nW tym samym budynku jest drugie mieszkanie. Możliwość wynajęcia całości (ogłoszenie ID: 898434987)\u003cbr /\u003e\n\u003cbr /\u003e\nMożliwość obejrzenia po godzinie 18 przy wcześniejszym umówieniu (najlepiej kontakt SMS)",
+     "title": "mieszkanie 2 pokoje balkon ogród parking Bronowice (okArmii Krajowej)",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-balkon-ogrod-parking-bronowice-okarmii-krajowej-CID3-IDYNHLf.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "szeregowiec",
+       "value": "Szeregowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "45",
+       "value": "45 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "1",
+       "value": "1 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 897489486,
+     "isActive": true,
+     "createdTime": "2024-02-14T12:29:59+01:00",
+     "description": "English below\u003cbr /\u003e\n\u003cbr /\u003e\nBezpośrednio, bez prowizji. Lokal typu Studio (24,53 m2) znajdujący się na 1 piętrze w nowym budownictwie przy Alei 3 maja 51B.\u003cbr /\u003e\n\u003cbr /\u003e\nDostępne od zaraz. Umowa od 3 miesięcy. \u003cbr /\u003e\n\u003cbr /\u003e\nGwarancja stałej ceny na czas trwania umowy.\u003cbr /\u003e\n\u003cbr /\u003e\nKoszty:\u003cbr /\u003e\nOpłata podstawowa przy podpisaniu umowy na 12 miesięcy 1950 zł\u003cbr /\u003e\nOpłata administracyjna 590 zł\u003cbr /\u003e\nMedia według zużycia prąd, ogrzewanie, woda\u003cbr /\u003e\nŁącznie 2540 zł plus media\u003cbr /\u003e\n\u003cbr /\u003e\nKomunikacja\u003cbr /\u003e\n\u003cbr /\u003e\nPrzystanki autobusowe: Największy to AGH/UR, 15 min pieszo, mniejsze z pojedynczą linią do 10 minut\u003cbr /\u003e\n\u003cbr /\u003e\nPrzystanek tramwajowy: 2 min pieszo, Reymana\u003cbr /\u003e\n\u003cbr /\u003e\nKraków Główny (PKP): 15 min autem\u003cbr /\u003e\n\u003cbr /\u003e\nBIZNES\u003cbr /\u003e\n\u003cbr /\u003e\nKorona Office Center: 30 min pieszo, 8 min autem\u003cbr /\u003e\n\u003cbr /\u003e\nGalileo, Newton, Edison (trzy biurowce przy ul Armii Krajowej): 25min pieszo, 6 min autem\u003cbr /\u003e\n\u003cbr /\u003e\nREKREACJA\u003cbr /\u003e\n\u003cbr /\u003e\nBłonia: jedna z największych łąk w centrum miasta w Europie\u003cbr /\u003e\n\u003cbr /\u003e\nFood court’y: dwa duże place z food truckami\u003cbr /\u003e\n\u003cbr /\u003e\nŚcieżka rowerowa: rozbudowana sieć, przy Błoniach,\u003cbr /\u003e\n\u003cbr /\u003e\nPark Jordana: alejki spacerowe, staw, boiska do koszykówki, siatkówki, skatepark, atrakcje dla dzieci.\u003cbr /\u003e\n\u003cbr /\u003e\nKopiec Kościuszki: 25 min pieszo, Las Wolski dookoła (super miejsce na spacery)\u003cbr /\u003e\n\u003cbr /\u003e\nRzeka Wisła: 20 min pieszo\u003cbr /\u003e\n\u003cbr /\u003e\nRzeka Rudawa: 10 min pieszo\u003cbr /\u003e\n\u003cbr /\u003e\nLokal składa się z:\u003cbr /\u003e\nSalonu: rozkładana 2 osobowa sofa, szafka RTV, stół z 2 krzesłami. stolik kawowy oraz szafa;\u003cbr /\u003e\nAneksu kuchennego: w pełni wyposażony w sprzęty AGD (płyta grzewcza, lodówka, okap, zmywarka i piekarnik);\u003cbr /\u003e\nŁazienki: pralka, prysznic, szafka podwieszana oraz szafka pod umywalką.\u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowe atuty:\u003cbr /\u003e\nCałodobowy monitoring.\u003cbr /\u003e\nObsługa administratora pomoc w razie awarii/drobne naprawy.\u003cbr /\u003e\nBiuro obsługi klienta otwarte w godzinach 9:00-17:00 znajduje się na terenie osiedla.\u003cbr /\u003e\nZwierzęta są mile widziane.\u003cbr /\u003e\nMożliwość wynajęcia miejsca parkingowego.\u003cbr /\u003e\nWiFi UPC Gratis\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent właściciel komfortowych mieszkań w abonamencie bez pośredników i dodatkowych kosztów.\u003cbr /\u003e\n\u003cbr /\u003e\nU nas mieszkasz jak chcesz, z kim chcesz i ile chcesz.\u003cbr /\u003e\n\u003cbr /\u003e\nZapraszamy do kontaktu.\u003cbr /\u003e\n\u003cbr /\u003e\nOgłoszenie ma charakter informacyjny i nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego. Ceny są podane poglądowo i nie są wiążące, a dostępność nie jest gwarantowana z uwagi na skierowanie ogłoszenia do większego grona odbiorców.\u003cbr /\u003e\n\u003cbr /\u003e\nOgłoszenie publikowane jest przez przedsiębiorcę, w ramach prowadzonej przez niego działalności gospodarczej, tj. spółkę R4R Kraków 3 Maja sp. z o.o. z siedzibą w Warszawie przy ul. Litewskiej 1, 00-581 Warszawa, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS: 0000798196.\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent – Firma/Właściciel - Mieszkania w Abonamencie\u003cbr /\u003e\n\u003cbr /\u003e\nStudio Apartment with air conditioning (24,53m2) on the 1st floor for rent. Without a commission, in a newly built housing estate at 3 Maja 51B Avenue.\u003cbr /\u003e\nDeposit required.\u003cbr /\u003e\n\u003cbr /\u003e\nAvailable from now. Contract from 3 months\u003cbr /\u003e\n\u003cbr /\u003e\nCosts:\u003cbr /\u003e\nRent for 12 month agreement: 1950 PLN\u003cbr /\u003e\nAdministrative rent: 590 PLN\u003cbr /\u003e\nUtilities according to consumption: electricity, district heating, water\u003cbr /\u003e\nTotal: 2540 PLN plus utilities\u003cbr /\u003e\n\u003cbr /\u003e\nNearby you can find:\u003cbr /\u003e\n\u003cbr /\u003e\nCommunication\u003cbr /\u003e\nBus stops: The largest is AGH / UR, 15 minutes on foot, smaller ones with a single line up to 10 minutes\u003cbr /\u003e\nTram stop: 2 min on foot, Reyman\u003cbr /\u003e\nKraków Główny (PKP): 15 minutes by car\u003cbr /\u003e\n\u003cbr /\u003e\nRECREATION\u003cbr /\u003e\nBłonia: one of the largest meadows in the city center in Europe\u003cbr /\u003e\nFood courts: two large squares with food trucks\u003cbr /\u003e\nBicycle path: extensive network, near Błonia,\u003cbr /\u003e\nJordan Park: walking paths, a pond, basketball and volleyball courts, skatepark, attractions for children.\u003cbr /\u003e\nKościuszko Mound: 25 minutes on foot, Wolski Forest around (great place for walks)\u003cbr /\u003e\nVistula River: 20 minutes on foot\u003cbr /\u003e\nThe Rudawa River: 10 minutes on foot\u003cbr /\u003e\n\u003cbr /\u003e\nBUSINESS\u003cbr /\u003e\nKorona Office Center: 30 minutes on foot, 8 minutes by car\u003cbr /\u003e\nGalileo, Newton, Edison (three office buildings at Armii Krajowej Street): 25 minutes on foot, 6 minutes by car\u003cbr /\u003e\n\u003cbr /\u003e\nThe apartment consists of:\u003cbr /\u003e\n\u003cbr /\u003e\nLiving room: folded 2 seater sofa, RTV cabinet, table with 2 chairs, coffee table, wardrobe;\u003cbr /\u003e\nKitchenette: fully equipped with appliances (hob, fridge, extractor hood, dishwasher, oven);\u003cbr /\u003e\nBathroom: comfortable with a shower, overhead cabinet and cabinet under the sink, washing mashine.\u003cbr /\u003e\n\u003cbr /\u003e\nAdditional advantages:\u003cbr /\u003e\n\u003cbr /\u003e\n24-hour monitoring\u003cbr /\u003e\nAdministrator service help in case of emergency minor repairs\u003cbr /\u003e\nCustomer service office open 9:00-17:00 located within the estate\u003cbr /\u003e\nPets friendly\u003cbr /\u003e\nPossibility to rent a parking space\u003cbr /\u003e\nUPC WiFi available in the rental price\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent owner of comfortable apartments for rent without intermediaries and additional costs.\u003cbr /\u003e\nWith us you live as you want with whom you want and how long you want.\u003cbr /\u003e\n\u003cbr /\u003e\nThe announcement is informative and does not constitute an offer within the meaning of Art. 66 § 1 of the Civil Code. The prices are illustrative and are not binding, and the availability is not guaranteed due to the fact that the advertisement is directed to a larger group of recipients.\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent - Company / Owner - Apartments in Subscription",
+     "title": "Kawalerka | Błonia | bez prowizji | Pets Friendly | ENG",
+     "url": "https://www.olx.pl/d/oferta/kawalerka-blonia-bez-prowizji-pets-friendly-eng-CID3-IDYJM0S.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "25",
+       "value": "25 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "590",
+       "value": "590 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 1950
+      }
+     }
+    },
+    {
+     "id": 897494345,
+     "isActive": true,
+     "createdTime": "2024-02-14T12:47:15+01:00",
+     "description": "English below\u003cbr /\u003e\n\u003cbr /\u003e\nBezpośrednio, bez prowizji. Lokal typu Studio (25 m2) znajdujący się na 3 piętrze w nowym budownictwie przy Alei 3 maja 51B.\u003cbr /\u003e\n\u003cbr /\u003e\nDostępne od zaraz. Umowa od 3 miesięcy \u003cbr /\u003e\n\u003cbr /\u003e\nGwarancja stałej ceny na czas trwania umowy.\u003cbr /\u003e\n\u003cbr /\u003e\nLokal składa się z:\u003cbr /\u003e\nSalonu: rozkładana 2 osobowa sofa, szafka RTV, stół z 2 krzesłami. stolik kawowy oraz szafa;\u003cbr /\u003e\nAneksu kuchennego: w pełni wyposażony w sprzęty AGD (płyta grzewcza, lodówka, okap, zmywarka i piekarnik);\u003cbr /\u003e\nŁazienki: pralka, prysznic, szafka podwieszana oraz szafka pod umywalką.\u003cbr /\u003e\nBalkon\u003cbr /\u003e\n\u003cbr /\u003e\nKoszty:\u003cbr /\u003e\nOpłata podstawowa przy podpisaniu umowy na 12 miesięcy 2 000zł\u003cbr /\u003e\nOpłata administracyjna 640 zł\u003cbr /\u003e\nMedia według zużycia prąd, ogrzewanie, woda\u003cbr /\u003e\nŁącznie 2 640 zł plus media\u003cbr /\u003e\n\u003cbr /\u003e\nKomunikacja\u003cbr /\u003e\n\u003cbr /\u003e\nPrzystanki autobusowe: Największy to AGH/UR, 15 min pieszo, mniejsze z pojedynczą linią do 10 minut\u003cbr /\u003e\n\u003cbr /\u003e\nPrzystanek tramwajowy: 2 min pieszo, Reymana\u003cbr /\u003e\n\u003cbr /\u003e\nKraków Główny (PKP): 15 min autem\u003cbr /\u003e\n\u003cbr /\u003e\nBIZNES\u003cbr /\u003e\n\u003cbr /\u003e\nKorona Office Center: 30 min pieszo, 8 min autem\u003cbr /\u003e\n\u003cbr /\u003e\nGalileo, Newton, Edison (trzy biurowce przy ul Armii Krajowej): 25min pieszo, 6 min autem\u003cbr /\u003e\n\u003cbr /\u003e\nREKREACJA\u003cbr /\u003e\n\u003cbr /\u003e\nBłonia: jedna z największych łąk w centrum miasta w Europie\u003cbr /\u003e\n\u003cbr /\u003e\nFood court’y: dwa duże place z food truckami\u003cbr /\u003e\n\u003cbr /\u003e\nŚcieżka rowerowa: rozbudowana sieć, przy Błoniach,\u003cbr /\u003e\n\u003cbr /\u003e\nPark Jordana: alejki spacerowe, staw, boiska do koszykówki, siatkówki, skatepark, atrakcje dla dzieci.\u003cbr /\u003e\n\u003cbr /\u003e\nKopiec Kościuszki: 25 min pieszo, Las Wolski dookoła (super miejsce na spacery)\u003cbr /\u003e\n\u003cbr /\u003e\nRzeka Wisła: 20 min pieszo\u003cbr /\u003e\n\u003cbr /\u003e\nRzeka Rudawa: 10 min pieszo\u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowe atuty:\u003cbr /\u003e\nCałodobowy monitoring.\u003cbr /\u003e\nObsługa administratora pomoc w razie awarii/drobne naprawy.\u003cbr /\u003e\nBiuro obsługi klienta otwarte w godzinach 9:00-17:00 znajduje się na terenie osiedla.\u003cbr /\u003e\nZwierzęta są mile widziane.\u003cbr /\u003e\nMożliwość wynajęcia miejsca parkingowego.\u003cbr /\u003e\nWiFi UPC Gratis\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent właściciel komfortowych mieszkań w abonamencie bez pośredników i dodatkowych kosztów.\u003cbr /\u003e\n\u003cbr /\u003e\nU nas mieszkasz jak chcesz, z kim chcesz i ile chcesz.\u003cbr /\u003e\n\u003cbr /\u003e\nZapraszamy do kontaktu.\u003cbr /\u003e\n\u003cbr /\u003e\nOgłoszenie ma charakter informacyjny i nie stanowi oferty handlowej w rozumieniu art. 66 §1 Kodeksu Cywilnego. Ceny są podane poglądowo i nie są wiążące, a dostępność nie jest gwarantowana z uwagi na skierowanie ogłoszenia do większego grona odbiorców.\u003cbr /\u003e\n\u003cbr /\u003e\nOgłoszenie publikowane jest przez przedsiębiorcę, w ramach prowadzonej przez niego działalności gospodarczej, tj. spółkę R4R Kraków 3 Maja sp. z o.o. z siedzibą w Warszawie przy ul. Litewskiej 1, 00-581 Warszawa, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS: 0000798196.\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent – Firma/Właściciel - Mieszkania w Abonamencie\u003cbr /\u003e\n\u003cbr /\u003e\nStudio Apartment with air conditioning (25m2) on the 3rd floor for rent. Without a commission, in a newly built housing estate at 3 Maja 51B Avenue.\u003cbr /\u003e\nDeposit required.\u003cbr /\u003e\n\u003cbr /\u003e\nAvailable from now. Contract from 3 months\u003cbr /\u003e\n\u003cbr /\u003e\nThe apartment consists of:\u003cbr /\u003e\n\u003cbr /\u003e\nLiving room: folded 2 seater sofa, RTV cabinet, table with 2 chairs, coffee table, wardrobe;\u003cbr /\u003e\nKitchenette: fully equipped with appliances (hob, fridge, extractor hood, dishwasher, oven);\u003cbr /\u003e\nBathroom: comfortable with a shower, overhead cabinet and cabinet under the sink, washing mashine.\u003cbr /\u003e\nBalcony\u003cbr /\u003e\n\u003cbr /\u003e\nCosts:\u003cbr /\u003e\nRent for 12 month agreement: 2 000 PLN\u003cbr /\u003e\nAdministrative rent: 640 PLN\u003cbr /\u003e\nUtilities according to consumption: electricity, district heating, water\u003cbr /\u003e\nTotal: 2 640 PLN plus utilities\u003cbr /\u003e\n\u003cbr /\u003e\nNearby you can find:\u003cbr /\u003e\n\u003cbr /\u003e\nCommunication\u003cbr /\u003e\nBus stops: The largest is AGH / UR, 15 minutes on foot, smaller ones with a single line up to 10 minutes\u003cbr /\u003e\nTram stop: 2 min on foot, Reyman\u003cbr /\u003e\nKraków Główny (PKP): 15 minutes by car\u003cbr /\u003e\n\u003cbr /\u003e\nRECREATION\u003cbr /\u003e\nBłonia: one of the largest meadows in the city center in Europe\u003cbr /\u003e\nFood courts: two large squares with food trucks\u003cbr /\u003e\nBicycle path: extensive network, near Błonia,\u003cbr /\u003e\nJordan Park: walking paths, a pond, basketball and volleyball courts, skatepark, attractions for children.\u003cbr /\u003e\nKościuszko Mound: 25 minutes on foot, Wolski Forest around (great place for walks)\u003cbr /\u003e\nVistula River: 20 minutes on foot\u003cbr /\u003e\nThe Rudawa River: 10 minutes on foot\u003cbr /\u003e\n\u003cbr /\u003e\nBUSINESS\u003cbr /\u003e\nKorona Office Center: 30 minutes on foot, 8 minutes by car\u003cbr /\u003e\nGalileo, Newton, Edison (three office buildings at Armii Krajowej Street): 25 minutes on foot, 6 minutes by car\u003cbr /\u003e\n\u003cbr /\u003e\nAdditional advantages:\u003cbr /\u003e\n\u003cbr /\u003e\n24-hour monitoring\u003cbr /\u003e\nAdministrator service help in case of emergency minor repairs\u003cbr /\u003e\nCustomer service office open 9:00-17:00 located within the estate\u003cbr /\u003e\nPets friendly\u003cbr /\u003e\nPossibility to rent a parking space\u003cbr /\u003e\nUPC WiFi available in the rental price\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent owner of comfortable apartments for rent without intermediaries and additional costs.\u003cbr /\u003e\nWith us you live as you want with whom you want and how long you want.\u003cbr /\u003e\n\u003cbr /\u003e\nThe announcement is informative and does not constitute an offer within the meaning of Art. 66 § 1 of the Civil Code. The prices are illustrative and are not binding, and the availability is not guaranteed due to the fact that the advertisement is directed to a larger group of recipients.\u003cbr /\u003e\n\u003cbr /\u003e\nResi4Rent - Company / Owner - Apartments in Subscription",
+     "title": "Studio w cichej okolicy | Bez prowizji | Od zaraz | Pets Friendly",
+     "url": "https://www.olx.pl/d/oferta/studio-w-cichej-okolicy-bez-prowizji-od-zaraz-pets-friendly-CID3-IDYJNhf.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "25",
+       "value": "25 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "640",
+       "value": "640 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2000
+      }
+     }
+    },
+    {
+     "id": 860720428,
+     "isActive": true,
+     "createdTime": "2023-09-07T11:15:39+02:00",
+     "description": "Wynajmę 3-pokojowe mieszkanie (68m^2) na zamkniętym, strzeżonym, bardzo zielonym osiedlu na Olszy w bliskiej odległości od ścisłego centrum Krakowa.\u003cbr /\u003e\n\u003cbr /\u003e\nNieruchomość:\u003cbr /\u003e\n\u003cbr /\u003e\n- 68m^2, 3-pokojowe, klimatyzowane, w pełni wyposażone\u003cbr /\u003e\n\u003cbr /\u003e\n- 2 piętro w 5 kondygnacyjnym budynku z windą\u003cbr /\u003e\n\u003cbr /\u003e\n- salon z aneksem kuchennym\u003cbr /\u003e\n\u003cbr /\u003e\n- sypialnia\u003cbr /\u003e\n\u003cbr /\u003e\n- pokój dziecięcy / gabinet\u003cbr /\u003e\n\u003cbr /\u003e\n- łazienka\u003cbr /\u003e\n\u003cbr /\u003e\n- przedpokój z dużą ilością zabudów \u003cbr /\u003e\n\u003cbr /\u003e\n- zaadaptowany balkon\u003cbr /\u003e\n\u003cbr /\u003e\n- miejsce postojowe w garażu podziemnym (poziom -1)\u003cbr /\u003e\n\u003cbr /\u003e\n \u003cbr /\u003e\n\u003cbr /\u003e\nInwestycja posiada własny plac zabaw i boisko oraz bezpośrednie przejście do Cracow International School do Parku Potockich, w pobliżu znajduje się również szkoła amerykańska.\u003cbr /\u003e\n\u003cbr /\u003e\nLokalizacja:\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie położone jest przy ulicy Pilotów w inwestycji \"Cztery Korony\"\u003cbr /\u003e\n\u003cbr /\u003e\n- 1 min do przystanku MPK\u003cbr /\u003e\n\u003cbr /\u003e\n- 5 min od Ronda Mogilskiego\u003cbr /\u003e\n\u003cbr /\u003e\n- 10 min od ścisłego centrum\u003cbr /\u003e\n\u003cbr /\u003e\n- 3 min pieszo od biurowca Pilot Tower\u003cbr /\u003e\n\u003cbr /\u003e\n- 1 min pieszo do Centrum Biurowego Etiuda\u003cbr /\u003e\n\u003cbr /\u003e\n- 2 km od Capgemini, Quattro Business Park, EPAM, ABB, V Offices\u003cbr /\u003e\n\u003cbr /\u003e\n- w pobliżu Alma, Serenada, Centrum Handlowe Krokus, Auchan, Castorama, Obi, Biedronka, Tesco, Park Wodny i Multikino.\u003cbr /\u003e\n\u003cbr /\u003e\nOpłaty:\u003cbr /\u003e\n\u003cbr /\u003e\n4000zł czynsz najmu (w cenie prywatne miejsce postojowe w garażu podziemnym)\u003cbr /\u003e\n\u003cbr /\u003e\n+1100zł czynsz administracyjny (śmieci, woda zimna i ciepła, ogrzewanie, utrzymanie powierzchni wspólnych, fundusz remontowy) + prąd + tv/internet.\u003cbr /\u003e\n\u003cbr /\u003e\nKaucja zwrotna: 8000zł\u003cbr /\u003e\n\u003cbr /\u003e\n Zapraszam do kontaktu telefonicznego pod nr tel: 50*******44",
+     "title": "3-pok. mieszkanie na zamkniętym osiedlu na Olszy",
+     "url": "https://www.olx.pl/d/oferta/3-pok-mieszkanie-na-zamknietym-osiedlu-na-olszy-CID3-IDVfuHy.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "68",
+       "value": "68 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "three",
+       "value": "3 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "1100",
+       "value": "1 100 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 4000
+      }
+     }
+    },
+    {
+     "id": 895286990,
+     "isActive": true,
+     "createdTime": "2024-02-04T12:54:40+01:00",
+     "description": "Mieszkanie znajduje się na pierwszym piętrze w nowo oddanym bloku, osiedle Centralna Park.\u003cbr /\u003e\nPowierzchnia lokalu to 32 metry kwadratowe. 2 pokoje (salon z kuchnią oraz sypialnia) + łazienka. Ponadto, do mieszkania przynależy duży balkon. Wszystkie meble oraz niemal wszystkie sprzęty AGD w mieszkaniu są nowe. \u003cbr /\u003e\n\u003cbr /\u003e\nLokal znajduje się bardzo blisko centrów handlowych M1 oraz Atut. W bliskiej odległości powstał także niedawno sklep Kaufland. Ponadto, przystanek tramwajowy znajduje się około 10-15min pieszo od mieszkania. \u003cbr /\u003e\n\u003cbr /\u003e\nCzynsz najmu 2200pln. Dodatkowo płatny czynsz administracyjny i zaliczka na wodę około 450pln oraz opłata za prąd zależna od zużycia (około 100pln). Najem okazjonalny. \u003cbr /\u003e\n\u003cbr /\u003e\nObowiązkowe wynajęcie miejsca parkingowego w garażu podziemnym za cenę 300pln / miesiąc.\u003cbr /\u003e\n\u003cbr /\u003e\nZapraszam do kontaktu, mieszkanie możliwe do obejrzenia od 18.02.2024.",
+     "title": "Wynajem mieszkanie dwupokojowe Centralna Park Kraków 32m2",
+     "url": "https://www.olx.pl/d/oferta/wynajem-mieszkanie-dwupokojowe-centralna-park-krakow-32m2-CID3-IDYAx2K.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "32",
+       "value": "32 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "450",
+       "value": "450 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2200
+      }
+     }
+    },
+    {
+     "id": 800252139,
+     "isActive": true,
+     "createdTime": "2022-12-03T20:10:33+01:00",
+     "description": "Mieszkanie dla singla lub  rodziny 2+1  , jak w opisie super stan ,\u003cbr /\u003e\nKuchnia  wyposażona w lodówkę , piekarnik , płyta indukcyjna , zmywarka , pralka , +wyposażenie do dotowania, stół +krzesła ,\u003cbr /\u003e\nPokój ok 16 m2  szafa , kanapa , łóżko , tv, ława ,   \u003cbr /\u003e\nŁazienka  z prysznicem ,\u003cbr /\u003e\nPrzedpokój w zabudowie ,\u003cbr /\u003e\nBalkon,\u003cbr /\u003e\nWolne od zaraz ,\u003cbr /\u003e\nMiejsce parkingowe  , duży własny park , teren zamknięty ,\u003cbr /\u003e\nkaucja 3000",
+     "title": "Mieszkanie 36 m2 Seniorów Lotnictwa , parking , super stan ,",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-36-m2-seniorow-lotnictwa-parking-super-stan-CID3-IDS9M8z.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "36",
+       "value": "36 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "450",
+       "value": "450 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2100
+      }
+     }
+    },
+    {
+     "id": 894228561,
+     "isActive": true,
+     "createdTime": "2024-01-30T14:07:39+01:00",
+     "description": "Do wynajęcia mieszkanie o powierzchni 43m2 po odświeżeniu przy ulicy Mazowieckiej w Krakowie. Lokal składa się z dwóch oddzielnych pokoi i oddzielnej kuchni! Ekspozycja północno-południowa. Do mieszkania przynależy piwnica.\u003cbr /\u003e\n\u003cbr /\u003e\nBUDYNEK I LOKALIZACJA:\u003cbr /\u003e\n\u003cbr /\u003e\nBudynek: czteropiętrowy, wybudowany w latach 70roku (NIE Z WIELKIEJ PŁYTY!)\u003cbr /\u003e\nUlica: Mazowiecka 102\u003cbr /\u003e\nPrzystanek: Mazowiecka, Urząd Marszałkowski\u003cbr /\u003e\nW pobliżu: Na osiedlu znajdują się liczne punkty gastronomiczne i usługowe. Niedaleko bloku plac zabaw oraz apteka i restauracje. Do Rynku Głównego 2,2km. Zielona okolica. Mieszkanie przed ponownym wynajmem będzie odświeżone. \u003cbr /\u003e\nDzielnica: Krowodrza\u003cbr /\u003e\n\u003cbr /\u003e\nMIESZKANIE:\u003cbr /\u003e\n\u003cbr /\u003e\nPiętro: 3/4\u003cbr /\u003e\nPowierzchnia: 43mkw.\u003cbr /\u003e\nRozkład pomieszczeń: 2 oddzielne pokoje + kuchnia+ łazienka (prysznic) + przedpokój z dużą szafą\u003cbr /\u003e\nWyposażenie dodatkowe: piekarnik, płyta gazowa, lodówka, meble w zabudowie;\u003cbr /\u003e\n\u003cbr /\u003e\nFINANSE:\u003cbr /\u003e\n\u003cbr /\u003e\n- 2500PLN czynszu najmu + ok 800PLN opłat administracyjnych + gaz + woda + prąd;\u003cbr /\u003e\n- wymagana kaucja zwrotna 2500 PLN;\u003cbr /\u003e\n- prowizja dla biura nieruchomości;\u003cbr /\u003e\n\u003cbr /\u003e\nUWAGI:\u003cbr /\u003e\n\u003cbr /\u003e\n- dostępne od zaraz\u003cbr /\u003e\n- ogrzewanie i ciepła woda z sieci miejskiej \u003cbr /\u003e\n- brak windy\u003cbr /\u003e\n- ekspozycja północno-południowa\u003cbr /\u003e\n- balkon\u003cbr /\u003e\n- brak zgody na zwierzęta \u003cbr /\u003e\n- piwnica\u003cbr /\u003e\n- okolica zielona\u003cbr /\u003e\n\u003cbr /\u003e\nUmowa najmu okazjonalnego - umowa potwierdzona notarialnie.\u003cbr /\u003e\n\u003cbr /\u003e\nPolecam \u003cbr /\u003e\nNatalia Machowska \u003cbr /\u003e\nGrupa Gamp",
+     "title": "Mazowiecka |2pok + kuchnia |Balkon |43m2",
+     "url": "https://www.olx.pl/d/oferta/mazowiecka-2pok-kuchnia-balkon-43m2-CID3-IDYv5Hj.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "43",
+       "value": "43 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "800",
+       "value": "800 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 655476505,
+     "isActive": true,
+     "createdTime": "2021-02-01T15:52:47+01:00",
+     "description": "Do wynajęcia 2-pokojowe mieszkanie przy ul. Reja, blisko centrum miasta.\u003cbr /\u003e\nLokalizacja: \u003cbr /\u003e\nMieszkanie znajduje się w sąsiedztwie takich ulic jak: Prądnicka, Opolska, Al. 29 listopada. \u003cbr /\u003e\nDoskonała lokalizacja zapewnia szybki dojazd do Rynku Głównego, Dworca Głównego, Bronowic, Czyżyn. Bardzo dobry wyjazd w stronę Katowic i Olkusza, autostrady A4 i lotniska Balice. Dobry dojazd do biurowców: Vinci, Opolska Business Park, 03 Business Campus, Quattro Business Park, High5ive.\u003cbr /\u003e\nW okolicy znajdują się przystanki MPK:\u003cbr /\u003e\n– Imbramowska (autobus) linia nr 132, 138, 172*********** 572, 469, 917\u003cbr /\u003e\n– UR al. 29 listopada (autobus) linia nr 105, 129, 139, 159, 169*********** 280, 405, 429, 469*********** 610\u003cbr /\u003e\n– Opolska Estakada (autobus) linia nr 105, 132, 138, 139, 169*********** 247, 257*********** 307, 405, 439, 469*********** 610, 917\u003cbr /\u003e\n– Lekarska (autobus) linia nr 513,\u003cbr /\u003e\n– Bratysławska (tramwaj) linia nr 3, 5, 18, 19, 50, 69,\u003cbr /\u003e\nW pobliżu znajdują się niezbędne punkty usługowo-handlowe: poczta, bank, apteka, lokalne sklepy spożywcze, Biedronka, Kaufland, Fitness Platinium XXL Bratysławska, fryzjer, przedszkole, park T. Kościuszki.\u003cbr /\u003e\n\u003cbr /\u003e\nNieruchomość:\u003cbr /\u003e\nBudynek z 2003 r. Do dyspozycji mieszkańców jest wózkowania oraz rowerowania. Ogrzewanie z miejskiej sieci (MPEC). Wokół budynku ogólnodostępne miejsca postojowe.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie:\u003cbr /\u003e\nMieszkanie o powierzchni 40m2, na pierwszym piętrze, całkowicie wyposażone. Mieszkanie oddalone od ulicy głównej, ciche. Na mieszkanie składa się: sypialnia, salon, aneks kuchenny, łazienka, przedpokój, duży balkon. W sypialni znajduje się podwójna kanapa, komoda. W salonie: wersalka, stół z krzesłami, komoda, stolik RTV, telewizor, szafka wisząca. Łazienka wyposażona jest w wannę z parawanem i prysznicem, umywalkę, pojemną szafkę, pralkę, WC. Aneks kuchenny posiada szafki, lodówkę, piekarnik, mały stolik z krzesłami. W przedpokoju znajdują się dwie pojemne szafy. \u003cbr /\u003e\n\u003cbr /\u003e\nCena:\u003cbr /\u003e\n2500 zł/mc czynsz najmu + ok.463 zł/mc czynsz administracyjny w miesiącach II-IV lub ok. 400 zł/mc w miesiącach V-IX (w tym zaliczka na wodę zimną, ciepłą, ogrzewanie, śmieci, wszystkie koszty oszacowane dla 2 osób) + gaz wg. zużycia- ok 20 zł/mc + prąd wg. zużycia- ok.50 zł/mc .  Internet  we własnym zakresie. Wymagana kaucja. Oferta od właściciela, bez prowizji. Z uwagi na to, że jeden z pokoi jest znacznie mniejszy od drugiego, mieszkanie jest bardziej funkcjonalne dla pary. Obowiązuje umowa najmu okazjonalnego na 12 mcy. Zwierzęta nie są akceptowane. Oferta tylko dla osób niepalących. Nie jestem zainteresowana współpracą z biurem nieruchomości.",
+     "title": "2-pokojowe mieszkanie do wynajęcia, blisko centrum- ul Reja",
+     "url": "https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-do-wynajecia-blisko-centrum-ul-reja-CID3-IDImjnH.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "40",
+       "value": "40 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "400",
+       "value": "400 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 898126078,
+     "isActive": true,
+     "createdTime": "2024-02-17T11:00:31+01:00",
+     "description": "Wynajmę  bezpośrednio komfortowy, słoneczny, luksusowo wyposażony 72 metrowy apartament zlokalizowany w Krakowie u zbiegu ulic Królowej Jadwigi/ Focha usytuowany na pierwszym piętrze dwupiętrowego budynku.Budynek w którym znajduje się  apartament leży  w ogrodzonej, dozorowanej (24/7) enklawie 4 budynków z kontrolowanym dostępem. \u003cbr /\u003e\nApartament składa się z salonu z aneksem kuchennym( typu open space) sypialni oraz garderoby. \u003cbr /\u003e\nDo salonu przylega duża loggia a do sypialni balkon.Balkony usytuowane od strony ogrodu.\u003cbr /\u003e\nWyposażenie:\u003cbr /\u003e\nKuchnia w pełni wyposażona (lodówka z zamrażarka, kuchnia mikrofalowa z funkcja piekarnika, zmywarka do naczyń),płyta indukcyjna, wyciag kuchenny.\u003cbr /\u003e\nSalon: TV,sofa, stół, 4 krzesła ,stolik kawowy.\u003cbr /\u003e\nSypilalnia:  łóżko typu \"king size\" duża szafa wnękowa \u003cbr /\u003e\nŁazienka nr 1 : kabina prysznicowa + toaleta\u003cbr /\u003e\nŁazienka nr 2 : wanna  jacuzzi + toaleta ,pralka.\u003cbr /\u003e\nNa podłogach parkiety z drewna egzotycznego.Salon i sypialnia klimatyzowane oddzielnie klimatyzatory typu split.We wszystkich oknach elektryczne rolety przeciwwłamaniowe i moskitiery. W łazienkach dodatkowe ogrzewanie el. podłogowe . \u003cbr /\u003e\nOgrzewanie i ciepła woda z kotłowni własnej budynku.Wszystkie media opomiarowane.\u003cbr /\u003e\nBardzo dobra komunikacja blisko przystanku autobusowego licznych punktów usługowych i sklepów a jednocześnie w bezpośredniej bliskości  terenów zielonych ( Błonia, Las Wolski, Kopiec Kościuszki).\u003cbr /\u003e\nMożliwość wynajęcia  miejsca postojowego w garażu podziemnym.\u003cbr /\u003e\nUmowa Najmu Okazjonalnego min na rok.\u003cbr /\u003e\nCzynsz z przedpłatami na media ok 800 zł plus energia elektryczna w/g zużycia.\u003cbr /\u003e\nKaucja zwrotna\u003cbr /\u003e\nMieszkanie dla osób niepalących bez zwierząt .",
+     "title": "Królowej Jadwigi/Focha, dwupokojowy apartament REZERWACJA DO 21.02.",
+     "url": "https://www.olx.pl/d/oferta/krolowej-jadwigi-focha-dwupokojowy-apartament-rezerwacja-do-21-02-CID3-IDYMrCu.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "72",
+       "value": "72 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "800",
+       "value": "800 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3900
+      }
+     }
+    },
+    {
+     "id": 897919069,
+     "isActive": true,
+     "createdTime": "2024-02-16T12:26:32+01:00",
+     "description": "\u003cp\u003e\u003cstrong\u003eDo wynajęcia 2 pokojowe mieszkanie w centrum Krakowa\u003c/strong\u003e, przy ul. Konarskiego niedaleko Placu Inwalidów, w pobliżu AGH, Parku Krakowskiego (270 m), 2 przystanki od Rynku Głównego.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eGłówne atuty:\u003c/strong\u003e\u003cbr /\u003e\n- lokalizacja - centrum, blisko tramwaju\u003cbr /\u003e\n- nowe, po remoncie, w pełni wyposażone\u003cbr /\u003e\n- cicha okolica\u003cbr /\u003e\n- ogródek\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie położone jest na niskim parterze, od strony ogrodu w kamienicy z lat 30-tych. Budynek jest w bardzo dobrym stanie technicznym.\u003cbr /\u003e\nLokalizacja, zapewnia spokój i ciszę wraz z dogodnościami mieszkania w centrum miasta. Oferta idealna dla pary lub jednej osoby. \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eMieszkanie:\u003c/strong\u003e\u003cbr /\u003e\nPowierzchnia 41,35 m2. Składa się z pokoju dziennego z aneksem kuchennym, 1 sypialni oraz łazienki. Ma bezpośrednie wyjście do ogródka na tyłach kamienicy.\u003cbr /\u003e\nJest po generalnym remoncie. Wymianie instalacji elektrycznej, wodnej, kanalizacyjnej, CO, wykładzin, ścian, podłóg, oświetlenia. Nowe umeblowanie, w pełni wyposażona nowoczesna kuchnia. Detale, wykończenia i wyposażenie, tworzą przyjemną przestrzeń. Nie posiada piwnicy. Miejsca parkingowe ogólnodostępne na ulicy.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eKomunikacja miejska:\u003c/strong\u003e\u003cbr /\u003e\nDo przystanku tramwajowego (Urzędnicza) przy ul. Królewskiej jest 300m. Jeżdżą tam tramwaje nr 4, 8, 13, 14, 24,  dojazd do Rynku Głównego zajmuje 5min.\u003cbr /\u003e\nLinia autobusowa 664 \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eMedia oraz Opłaty:\u003c/strong\u003e\u003cbr /\u003e\nczynsz miesięczny: 2700 pln\u003cbr /\u003e\nkaucja zwrotna: 2700 pln\u003cstrong\u003e\u003cbr /\u003e\n\u003c/strong\u003eczynsz administracyjny: 210 pln \u003cbr /\u003e\nPrąd: wg zużycia (nowoczesne i oszczędne ogrzewanie elektryczne)\u003cbr /\u003e\nWoda ciepła z bojlera.\u003cbr /\u003e\nŚwiatłowód\u003cbr /\u003e\n\u003cbr /\u003e\nSerdecznie zapraszam zainteresowanych na prezentację mieszkania.\u003c/p\u003e",
+     "title": "Wynajmę 2 pokojowe mieszkanie w centrum Krakowa",
+     "url": "https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-w-centrum-krakowa-CID3-IDYLzLD.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07047,
+      "lon": 19.92105,
+      "radius": 0
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "41.35",
+       "value": "41,35 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "210",
+       "value": "210 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2700
+      }
+     }
+    },
+    {
+     "id": 897918272,
+     "isActive": true,
+     "createdTime": "2024-02-16T12:23:03+01:00",
+     "description": "Proszę o kontakt tylko osoby bezpośrednio zainteresowane wynajęciem mieszkania. \u003cbr /\u003e\nKawalerka z windą i balkonem na wynajem w Krakowie, przy ulicy Siemiradzkiego 25, piętro III, powierzchnia 26 metrów. \u003cbr /\u003e\nCena (odstępne): 2700 PLN. Opłaty: czynsz ryczałtem 533,66 PLN i 66,40 za prąd. Jeśli w mieszkaniu będzie więcej niż jedna osoba - 27 złotych za dodatkowe śmieci. Opłaty (czynsz i prąd) z góry za miesiąc, co pół roku rozliczane wedle faktycznego zużycia (część opłat jest stała - np. śmieci, część rozliczana - np. zużycie wody, prądu itp.) \u003cbr /\u003e\nInternet i Tv z Play - około 90 zł/miesięcznie. Zwierzęta: koty lub bardzo mały pies ok, duże psy - nie.\u003cbr /\u003e\nW mieszkaniu nie ma pralki, ale można ją wstawić (jest możliwość podłączenia i miejsce). \u003cbr /\u003e\nMieszkanie jest ciche, posiada duży balkon z widokiem na okoliczne kamienice i ogród, na balkonie jest siatka przeciw ptakom i ucieczkom ewentualnych kotów :) \u003cbr /\u003e\nKilka szaf, dwuosobowa wanna. Mieszkanie jest wysokie (około 3 metrów).\u003cbr /\u003e\nWyposażenie: kuchenka, piekarnik, mikrofala, lodówka, zmywarka, żelazko, czajnik, komplet zastawy, sztućców, noże, itd.\u003cbr /\u003e\nBardzo dobra komunikacja, tramwaje, autobusy - blisko Placu Inwalidów (3 min.), Rynku Głównego (10 min.).\u003cbr /\u003e\n\u003cbr /\u003e\nMichał, tel. 60*****01",
+     "title": "Kraków Siemiradzkiego Kawalerka 26 metrów wynajem 2700 miesięcznie",
+     "url": "https://www.olx.pl/d/oferta/krakow-siemiradzkiego-kawalerka-26-metrow-wynajem-2700-miesiecznie-CID3-IDYLzyM.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "26",
+       "value": "26 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "533.66",
+       "value": "533,66 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2700
+      }
+     }
+    },
+    {
+     "id": 898383341,
+     "isActive": true,
+     "createdTime": "2024-02-18T12:39:00+01:00",
+     "description": "Prosper Nieruchomości tel. 7 2 0 8 8 8 9 8 9.\u003cbr /\u003e\noferujemy do wynajęcia mieszkanie 1-pokojowe,\u003cbr /\u003e\nKraków, Krowodrza;\u003cbr /\u003e\nul. Nawojki;\u003cbr /\u003e\nw okolicy: AGH, ul. Czarnowiejska, Kijowska, Miechowska, Kawiory, Toruńska;\u003cbr /\u003e\nod zaraz,\u003cbr /\u003e\ndo wynajęcia mieszkanie jednopokojowe; po remoncie,\u003cbr /\u003e\n1-pokojowe, 36 m2;\u003cbr /\u003e\npokój plus aneks kuchenny;\u003cbr /\u003e\nI piętro, balkon,\u003cbr /\u003e\nkuchnia umeblowana,\u003cbr /\u003e\njest pralka, lodówka, piekarnik, zmywarka,\u003cbr /\u003e\npokój umeblowany;\u003cbr /\u003e\nmin. dwuosobowa sofa z funkcją spania, biurko, stół, krzesła, stolik kawowy, szafa\u003cbr /\u003e\nłazienka i wc razem;\u003cbr /\u003e\nczynsz za wynajem 2500 zł;\u003cbr /\u003e\nnie ma czynszu administracyjnego;\u003cbr /\u003e\nplus media wg zużycia tj. prąd, ogrzewanie, ciepła i zimna woda, śmieci\u003cbr /\u003e\nwszystkie media opomiarowane.\u003cbr /\u003e\nOgrzewanie centralne miejskie.\u003cbr /\u003e\nCiepła woda miejska.\u003cbr /\u003e\nKaucja zwrotna 2500zł.\u003cbr /\u003e\njednorazowa prowizja dla biura 2000zł;\u003cbr /\u003e\nProsper Nieruchomości\u003cbr /\u003e\nlicencja 1161\u003cbr /\u003e\ntel. 7 2 0 8 8 8 9 8 9\u003cbr /\u003e\n!!pracujemy w godzinach od 7 do 21 - również w weekendy !!\u003cbr /\u003e\nwięcej ofert: prosper.nieruchomosci.pl",
+     "title": "Miechowska/Nawojki 1-pokojowe bez czynszu administracyjnego",
+     "url": "https://www.olx.pl/d/oferta/miechowska-nawojki-1-pokojowe-bez-czynszu-administracyjnego-CID3-IDYNvxT.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "36",
+       "value": "36 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "0.01",
+       "value": "0,01 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 651038000,
+     "isActive": true,
+     "createdTime": "2021-01-10T15:46:06+01:00",
+     "description": "Wynajmę mieszkanie dwupokojowe plus oddzielna kuchnia z oknem. Pierwsze piętro osiedle Azory ulica Makowskiego. Mieszkanie jest po remoncie, umeblowane i wyposażone w sprzęt AGD. Czynsz wynosi 2300 pln/mies. plus koszty administracyjne ( administracja domów,woda, gaz, prąd, śmieci itd) 580 PLN/mies.  Tel 69*****91",
+     "title": "Mieszkanie 2-pokojowe Azory do wynajęcia",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-azory-do-wynajecia-CID3-IDI3GIU.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "37",
+       "value": "37 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "580",
+       "value": "580 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2300
+      }
+     }
+    },
+    {
+     "id": 894611606,
+     "isActive": true,
+     "createdTime": "2024-02-01T10:26:04+01:00",
+     "description": "Do wynajęcia nowoczesne przytulne 2-pokojowe mieszkanie w nowym bloku. Dla pary, max 3 osób dorosłych, dobrze przystosowane do pracy zdalnej.\u003cbr /\u003e\nOd 1.03.2024\u003cbr /\u003e\nCentrum, Poznańska, obok Biedronka, przystanek autobusowy 3 min pieszo, 20 min pieszo do Starego Miasta.\u003cbr /\u003e\n-Salon\u003cbr /\u003e\n-Oddzielna kuchnia\u003cbr /\u003e\n-Sypialnia\u003cbr /\u003e\n-Balkon\u003cbr /\u003e\nPrzyjazne do zwierząt \u003cbr /\u003e\n46m2, II piętro, winda. \u003cbr /\u003e\nPłatności: 3200+600+prąd. Kaucja 3200. Umowa okazjonalna.",
+     "title": "Nowe 2 pokojowe Poznanska od 1.03",
+     "url": "https://www.olx.pl/d/oferta/nowe-2-pokojowe-poznanska-od-1-03-CID3-IDYxHls.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "47",
+       "value": "47 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "600",
+       "value": "600 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3200
+      }
+     }
+    },
+    {
+     "id": 896987809,
+     "isActive": true,
+     "createdTime": "2024-02-12T08:47:21+01:00",
+     "description": "JESTEM NA URLOPIE I NIE ODBIERAM TELEFONÓW. MOŻLIWOŚĆ OGLĄDANIA 20.02. PROSZĘ ZOSTAWIAĆ WIADOMOŚCI NA OLX LUB SMS Z INFORMACJĄ O KTÓRE MIESZKANIE CHODZI. ZACHĘCAM DO SPRAWDZENIA INNYCH MOICH OFERT.\u003cbr /\u003e\n\u003cbr /\u003e\nPrzestronne mieszkanie w centrum, Krowodrza, oddzielna kuchnia, 2pokoje\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie:\u003cbr /\u003e\nMieszkanie o powierzchni 60 m2, składa się z przestronnego przedpokoju z dużą szafą, dwóch pokoi, oddzielnej również przestronnej kuchni oraz łazienki z dużą kabiną prysznicową i balkonu od strony kuchni. Mieszkanie jest wyremontowane i odmalowane. Sprzęty w mieszkaniu są praktycznie nowe i nieużywane. Mieszkanie jest umeblowane i wyposażone w sprzęty takie jak, zmywarka, mikrofalówka, pralka i lodówka. W mieszkaniu nie ma telewizora, którego widać na zdjęciach. \u003cbr /\u003e\n\u003cbr /\u003e\nLokalizacja:\u003cbr /\u003e\nMieszkanie zlokalizowane jest na wysokim parterze w kamienicy z 1938 roku, znajdującej się przy ul. Odrowąża 38 w dzielnicy Krowodrza w centrum miasta. Na Rynek Główny dojdziemy w 20 min pieszo. Nowy Kleparz 5 min od mieszkania. W okolicy liczne przystanki autobusowe i tramwajowe, które połączą nas z każdą częścią Krakowa. W okolicy znajdują się również sklepy i liczne lokale usługowe w tym Biedronka. Dla mieszkańców Krakowa, istnieje możliwość wykupienia abonamentu parkowania w kwocie 120 zł za rok.\u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowe informacje:\u003cbr /\u003e\nWoda i mieszkanie ogrzewane niezależnie dwufunkcyjnym piecem gazowym. Do mieszkania przynależy duża piwnica.\u003cbr /\u003e\n\u003cbr /\u003e\nOpłaty:\u003cbr /\u003e\n3300 zł + czynsz administracyjny 490 zł + prąd i gaz wg zużycia \u003cbr /\u003e\nKaucja zwrotna 3900 zł\u003cbr /\u003e\nWynajem na minimum rok z możliwością przedłużenia",
+     "title": "Przestronne mieszkanie w centrum, Krowodrza, oddzielna kuchnia,",
+     "url": "https://www.olx.pl/d/oferta/przestronne-mieszkanie-w-centrum-krowodrza-oddzielna-kuchnia-CID3-IDYHFwj.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "60",
+       "value": "60 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "490",
+       "value": "490 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3300
+      }
+     }
+    },
+    {
+     "id": 655290714,
+     "isActive": true,
+     "createdTime": "2021-01-31T17:15:23+01:00",
+     "description": "Do wynajęcia od Właściciela bardzo ładne, trzypokojowe mieszkanie z balkonem o pow. 51 m, znajdujące się przy ul. Kuźnicy Kołłątajowskiej, dzielnica Prądnik Biały.\u003cbr /\u003e\n\u003cbr /\u003e\nW niewielkiej odległości od mieszkania znajdują się m.in. sklepy spożywcze (Lewiatan, Lidl, Biedronka, Auchan),  szkoła, przedszkole, żłobek. Z mieszkania jest blisko do Galerii Serenada, Centrum Handlowego Krokus, Parku Wodnego czy Multikina.  Przystanek lini szybkiego tramwaju ok. 100-150 m od bloku (linie: 18, 50) oraz w odległości ok. 5-10 min przystanki linii autobusowych (linie 137, 537, 503).\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie znajduje się na 4 piętrze w bloku 5-piętrowym (tylko 4 mieszkania na piętrze) i składa się z dwóch sypialni (8,5 m2 i 12 m2), salonu połączonego z kuchnią (ok.22 m) przedpokoju, łazienki oraz balkonu. Wszystkie pokoje znajdują się od strony południowej co sprawia, że mieszkanie jest bardzo ciepłe (bardzo niskie opłaty za ogrzewanie).\u003cbr /\u003e\nMieszkanie jest w pełni umeblowane oraz wyposażone w niezbędny sprzęt AGD (lodówka z zamrażarką, pralka automatyczna, płyta ceramiczna z piekarnikiem, kuchenka mikrofalowa). W przedpokoju znajduje się szafa ubraniowa, szafa gospodarcza, lustro, szafka na obuwie, wieszaki na ubrania. Mieszkanie znajduje się na osiedlu ogrodzonym, wjazd na teren osiedla za pośrednictwem bramy zamykanej na pilota. Na terenie osiedla znajdują się wolno dostępne miejsca postojowe dla mieszkańców. W budynku jest winda oraz domofon. \u003cbr /\u003e\n\u003cbr /\u003e\nCena: 2500 zł + czynsz administracyjny ok. 640 zł + prąd wg. zużycia . Czynsz zawiera zaliczki na wodę, centralne ogrzewanie, wywóz śmieci, utrzymanie części wspólnych.\u003cbr /\u003e\n\u003cbr /\u003e\n* nie jestem zainteresowany współpracą z biurami nieruchomości",
+     "title": "mieszkanie 51 m2, ul. Kuźnicy Kołłątajowskiej, Prądnik Biały, Kraków",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-51-m2-ul-kuznicy-kollatajowskiej-pradnik-bialy-krakow-CID3-IDIlx34.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_4",
+       "value": "4"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "51",
+       "value": "51 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "three",
+       "value": "3 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "640",
+       "value": "640 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 897837602,
+     "isActive": true,
+     "createdTime": "2024-02-15T23:16:08+01:00",
+     "description": "Od 1 marca br. do wynajęcia komfortowe mieszkanie. Składa się z dwóch niezależnych w pełni umeblowanych pokoi z dużym balkonem kuchni wyposażonej  w meble i urządzenia AGD : płyta indukcyjna, piekarnik, kuchenka mikrofalowa, zmywarka, lodówka, pralka oraz klimatyzacja. \u003cbr /\u003e\n\u003cbr /\u003e\nApartamentowiec 10 piętrowy ul.Swiętokrzyska.\u003cbr /\u003e\nDoskonała lokalizacja: na dole apartamentowca znajduje się sklep Żabka i przychodnia. W pobliżu sporo sklepów,  piekarnia,  bary i restauracje oraz wiele punktów  usługowych. Blisko do Starego Miasta, Rynku.\u003cbr /\u003e\nW niedalekiej odległości Dworzec, Galeria Krakowska.\u003cbr /\u003e\nDogodna komunikacja miejska.\u003cbr /\u003e\nKoszty: 3000 zł + Czynsz do wspólnoty + energia elektryczna rozliczana miesięcznie w/g faktycznego stanu zużycia [ ogrzewanie miejskie]\u003cbr /\u003e\nMożliwość wynajęcia miejsca postojowego  w garażu podziemnym. \u003cbr /\u003e\nKaucja zwrotna 3000zl\u003cbr /\u003e\nSuper mieszkanie dla pary pracującej.\u003cbr /\u003e\nZainteresowanych zapraszam do kontaktu 78*******41",
+     "title": "Do wynajęcia od 1 marca br. 2pokojowe 40m2 mieszkanie",
+     "url": "https://www.olx.pl/d/oferta/do-wynajecia-od-1-marca-br-2pokojowe-40m2-mieszkanie-CID3-IDYLezE.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07576549,
+      "lon": 19.92931355,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_8",
+       "value": "8"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "40",
+       "value": "40 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "500",
+       "value": "500 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3000
+      }
+     }
+    },
+    {
+     "id": 895686553,
+     "isActive": true,
+     "createdTime": "2024-02-05T22:12:57+01:00",
+     "description": "Mieszkanie położone na ul. Rydlówka obok Ronda Matecznego i ul. Kapelanka / Kobierzyńska.\u003cbr /\u003e\n\u003cbr /\u003e\nMetraż: 56 mkw\u003cbr /\u003e\n\u003cbr /\u003e\nOpis: \u003cbr /\u003e\nMieszkanie ma oddzielną kuchnie i dwa pokoje. Każde może służyć za sypialnię.\u003cbr /\u003e\nDomyślnie większy pokój służy za salon, mniejszy za sypialnię. Bardzo dobrze zagospodarowana przestrzeń do składowania ubrań i innych rzeczy.\u003cbr /\u003e\nMieszkanie ma klimatyzację. Dostępne darmowe miejsce postojowe.\u003cbr /\u003e\nLokalizacja jest świetna w odległości 7min pieszo dwa przystanki tramwajowo-autobusowe, z których w ciągu 15 min można dostać się na Rynek Główny lub Kazimierz.\u003cbr /\u003e\n\u003cbr /\u003e\nPomieszczenia:\u003cbr /\u003e\n- salon 20mkw, \u003cbr /\u003e\nwyposażenie: narożnik z funkcją spania, szafka RTV, klimatyzacja, lampa stojąca, szafka\u003cbr /\u003e\n\u003cbr /\u003e\n- sypialnia 11mkw, \u003cbr /\u003e\nwyposażenie: łóżko wielka zabudowana szafa na ubrania i pościel, szafki nocne\u003cbr /\u003e\n\u003cbr /\u003e\n- kuchnia 11mkw, \u003cbr /\u003e\nkuchenka indukcyjna, zmywarka, mikrofala, piekarnik, czajnik, szafki w zabudowie\u003cbr /\u003e\n\u003cbr /\u003e\n- łazienka 5mkw, szafki w zabudowie\u003cbr /\u003e\n\u003cbr /\u003e\n- schowek 2mkw, \u003cbr /\u003e\nduża pojemność i ilość półek i wieszaków\u003cbr /\u003e\n\u003cbr /\u003e\n- duży balkon 5mkw\u003cbr /\u003e\n\u003cbr /\u003e\nUwagi odnośnie wyposażenia:\u003cbr /\u003e\nZdjęcia były wykonywane przed przeprowadzką i przedmioty: biurko komputerowe, rośliny doniczkowe, telewizor, toster nie są dostępne. \u003cbr /\u003e\n\u003cbr /\u003e\nUsytuowanie: parter\u003cbr /\u003e\nTyp: mieszkanie w nowym budownictwie (2009)\u003cbr /\u003e\n\u003cbr /\u003e\nStan: mieszkanie jest w świetnym stanie, na ścianach stylowe lamelki, klimatyzacja oraz rolety przeciwwłamaniowe, na podłodze drewniany parkiet, w sypialni przyjemna w dotyku puszysta, wykładzina. Darmowy parking na strzeżonym osiedlu.\u003cbr /\u003e\n\u003cbr /\u003e\nLokalizacja:\u003cbr /\u003e\nMieszkanie znajduje się w spokojnej i przyjaznej okolicy, w sąsiedztwie Ronda Matecznego i ul. Kapelanka/Kobierzyńska, z której blisko jest do kluczowych miejsc w Krakowie.\u003cbr /\u003e\nW ciągu 7 minut pieszo można dojść do przystanku Rondo Mateczne lub Kapelanka.\u003cbr /\u003e\n\u003cbr /\u003e\nKazimierz: 5 min autem, 11 min tramwajem\u003cbr /\u003e\nRynek Główny: 7 min autem, 15 min tramwajem\u003cbr /\u003e\nGaleria Krakowska: 11 min autem, 17 min komunikacją\u003cbr /\u003e\n\u003cbr /\u003e\nForum Przestrzenie: 5 min autem, 20 min pieszo\u003cbr /\u003e\nGaleria Bonarka: 7 min autem, 9 min komunikacją\u003cbr /\u003e\nICE Centrum Kongresowe: 5 min autem, 11 min tramwajem, 20 min pieszo\u003cbr /\u003e\nShuvary Park: 10 min autem\u003cbr /\u003e\nAGH / UR: 7 min autem, 7 min tramwajem/autobusem\u003cbr /\u003e\nRuczaj / UJ: 5 min autem, 9 min tramwajem\u003cbr /\u003e\n\u003cbr /\u003e\nUdogodnienia:\u003cbr /\u003e\n- darmowy parking na strzeżonym osiedlu\u003cbr /\u003e\n- sklep osiedlowy (1min)\u003cbr /\u003e\n- duży Kaufland (7 min pieszo)\u003cbr /\u003e\n- żabka (4 min pieszo)\u003cbr /\u003e\n\u003cbr /\u003e\nWarunki:\u003cbr /\u003e\nCena: 3400 zł za najem +  czynsz i media zależnie od zużycia\u003cbr /\u003e\n\u003cbr /\u003e\nMile widziane osoby pracujące, pary.\u003cbr /\u003e\nOsoby bez zwierząt.\u003cbr /\u003e\nUmowa podpisana u notariusza.\u003cbr /\u003e\n\u003cbr /\u003e\nTermin dostępności:\u003cbr /\u003e\nod ręki",
+     "title": "MIESZKANIE Wynajem 56mkw RYDLÓWKA obok UJ Matecznego Kapelanka",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-56mkw-rydlowka-obok-uj-matecznego-kapelanka-CID3-IDYCcZj.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "56",
+       "value": "56 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "600",
+       "value": "600 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3200
+      }
+     }
+    },
+    {
+     "id": 898275252,
+     "isActive": true,
+     "createdTime": "2024-02-17T20:37:23+01:00",
+     "description": "Do wynajęcia od marca, 2-pokojowe mieszkanie o powierzchni ok. 60 m2 przy ul. czarnowiejskiej tuż przy Błoniach!\u003cbr /\u003e\n\u003cbr /\u003e\nBUDYNEK I LOKALIZACJA:\u003cbr /\u003e\nBudynek: kamienica - czarnowiejska 84\u003cbr /\u003e\nPrzystanek: \"Kawiory\", \"Czarnowiejska\"\u003cbr /\u003e\nW pobliżu: Plac Axentowicza, Park Krakowski, Stare Miasto, AGH, ul. Królewska, ul. Kazimierza Wielkiego, al. Trzech Wieszczów, Błonia\u003cbr /\u003e\nDzielnica: Krowodrza\u003cbr /\u003e\n\u003cbr /\u003e\nMIESZKANIE:\u003cbr /\u003e\nPowierzchnia: ok 60 m2\u003cbr /\u003e\nPiętro: 3/3\u003cbr /\u003e\nRozkład: pokój + kuchnia + pokój z balkonem + łazienka z pralką i prysznicem + hall\u003cbr /\u003e\n\u003cbr /\u003e\nFINANSE:\u003cbr /\u003e\n- 2200 PLN wynajem + 600 PLN czynsz administracyjny(w tym MPO, gaz, woda) + prąd wg zużycia;\u003cbr /\u003e\n- wymagana kaucja zwrotna w wysokości jednego czynszu;\u003cbr /\u003e\n\u003cbr /\u003e\nUWAGI:\u003cbr /\u003e\n- wolne od marca;\u003cbr /\u003e\n- ogrzewanie i ciepła woda: MPEC;\u003cbr /\u003e\n- idealne dla dwóch lub trzech osób;\u003cbr /\u003e\n- koszty energii elektrycznej i gazu około 150/200 zł/ms.",
+     "title": "Mieszkanie 2-pokojowe do wynajęcia ul. czarnowiejska, Krowodrza",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-ul-czarnowiejska-krowodrza-CID3-IDYN4qv.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "60",
+       "value": "60 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "600",
+       "value": "600 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2200
+      }
+     }
+    },
+    {
+     "id": 891273815,
+     "isActive": true,
+     "createdTime": "2024-01-17T09:04:20+01:00",
+     "description": "Do wynajęcia od zaraz: jasne, ciche mieszkanie po częściowym remoncie, zlokalizowane przy al. Kijowskiej w Krakowie. Mieszkanie ma powierzchnię 37 m^2, składa się z pokoju, łazienki, osobnej kuchni oraz przedpokoju i jest w pełni umeblowane. Kuchnia jest wyposażona we wszystko, co niezbędne, a w łazience znajduje się niewielka wanna, kabina prysznicowa i pralka. Mieszkanie mieści się na drugim piętrze bloku czteropiętrowego (bez windy). Okna wychodzą na wewnętrzny ogródek. \u003cbr /\u003e\nOgrzewanie: MPEC\u003cbr /\u003e\nCiepła woda: piecyk gazowy\u003cbr /\u003e\n\u003cbr /\u003e\nW odległości 50 m od budynku znajdziemy Żabkę, Carrefour Market oraz Aldi. \u003cbr /\u003e\nPrzystanek Biprostal (tramwajowy: 4, 8, 13, 14, 24 i autobusowy: 144, 194, 494, 102) jest oddalony od mieszkania o 350 m, podobnie jak przystanek Kawiory (autobusy: 173*********** 164, 159, 601, 611). Do Uniwersytetu Pedagogicznego jest niecały kilometr, a do Akademii Górniczo- Hutniczej ok. 1,5 km. \u003cbr /\u003e\n\u003cbr /\u003e\nKoszt: 2300 zł + czynsz administracyjny 473 zł + opłaty według zużycia \u003cbr /\u003e\n\u003cbr /\u003e\nZainteresowanych proszę o kontakt:\u003cbr /\u003e\nTelefoniczny: +48********83\u003cbr /\u003e\nLub w wiadomości prywatnej.",
+     "title": "Mieszkanie pokój z kuchnią, al. Kijowska (od zaraz)",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-pokoj-z-kuchnia-al-kijowska-od-zaraz-CID3-IDYjH27.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07567,
+      "lon": 19.93084,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "37",
+       "value": "37 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "473",
+       "value": "473 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2200
+      }
+     }
+    },
+    {
+     "id": 897551233,
+     "isActive": true,
+     "createdTime": "2024-02-14T16:12:34+01:00",
+     "description": "Do wynajęcia mieszkanie, położone w pobliżu centrum Krakowa przy ulicy Poznańskiej 11. W pobliżu znajdują się: biedronka, , przedszkola, Szpital, przychodnie.\u003cbr /\u003e\nBudynek oddany do użytku 2017 r.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie o powierzchni 56 m2 znajduje się na 2 piętrze i składa się z:\u003cbr /\u003e\n- dużego salonu połączonego z aneksem kuchennym ( W zabudowie kuchennej sprzęt AGD w tym zmywarka, w salonie TV)\u003cbr /\u003e\n-  2 sypialni ( w obu znajdują się łóżka i komody w jednej jest również szafa)\u003cbr /\u003e\n- łazienki z wanną i prysznicem \u003cbr /\u003e\n-balkonu ok 4m.\u003cbr /\u003e\n- przedpokoju z dwoma dużymi szafami w zabudowie\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie wyposażone we wszystkie niezbędne rzeczy do codziennego użytku o bardzo dobrej jakości. Walorem mieszkania jest drewniana podłoga. Mieszkanie o ekspozycji północ-południe\u003cbr /\u003e\n\u003cbr /\u003e\nCałość wyposażenia: drobny sprzęt AGD: odkurzacz, czajnik, suszarka na bieliznę, zastawa\u003cbr /\u003e\nstołowa.\u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowe informacje:\u003cbr /\u003e\n- ogrzewanie miejskie\u003cbr /\u003e\n- monitorowane , ogrodzone osiedle. \u003cbr /\u003e\n-miejsce postojowe w garażu podziemnym.\u003cbr /\u003e\n\u003cbr /\u003e\nCENA mieszkania obejmuje :\u003cbr /\u003e\n- 4200 zł wynajem w tym miejsce postojowe w garażu\u003cbr /\u003e\n- 750 zł czynsz administracyjny ( w tym zaliczka na wodę i ogrzewanie ) \u003cbr /\u003e\n-  prąd w zależności od zużycia ( przy dwóch os. Średnio 80 zł/mc)\u003cbr /\u003e\n- internet 60 zł\u003cbr /\u003e\n -kaucja 4200 zł\u003cbr /\u003e\nDOSTĘPNE OD 26 LUTEGO.",
+     "title": "Mieszkanie na wynajem 56m2 ul. Poznańska 11 , z miejscem w garażu.",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-56m2-ul-poznanska-11-z-miejscem-w-garazu-CID3-IDYK24N.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "56",
+       "value": "56 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "three",
+       "value": "3 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "750",
+       "value": "750 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 4200
+      }
+     }
+    },
+    {
+     "id": 897919069,
+     "isActive": true,
+     "createdTime": "2024-02-16T12:26:32+01:00",
+     "description": "\u003cp\u003e\u003cstrong\u003eDo wynajęcia 2 pokojowe mieszkanie w centrum Krakowa\u003c/strong\u003e, przy ul. Konarskiego niedaleko Placu Inwalidów, w pobliżu AGH, Parku Krakowskiego (270 m), 2 przystanki od Rynku Głównego.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eGłówne atuty:\u003c/strong\u003e\u003cbr /\u003e\n- lokalizacja - centrum, blisko tramwaju\u003cbr /\u003e\n- nowe, po remoncie, w pełni wyposażone\u003cbr /\u003e\n- cicha okolica\u003cbr /\u003e\n- ogródek\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie położone jest na niskim parterze, od strony ogrodu w kamienicy z lat 30-tych. Budynek jest w bardzo dobrym stanie technicznym.\u003cbr /\u003e\nLokalizacja, zapewnia spokój i ciszę wraz z dogodnościami mieszkania w centrum miasta. Oferta idealna dla pary lub jednej osoby. \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eMieszkanie:\u003c/strong\u003e\u003cbr /\u003e\nPowierzchnia 41,35 m2. Składa się z pokoju dziennego z aneksem kuchennym, 1 sypialni oraz łazienki. Ma bezpośrednie wyjście do ogródka na tyłach kamienicy.\u003cbr /\u003e\nJest po generalnym remoncie. Wymianie instalacji elektrycznej, wodnej, kanalizacyjnej, CO, wykładzin, ścian, podłóg, oświetlenia. Nowe umeblowanie, w pełni wyposażona nowoczesna kuchnia. Detale, wykończenia i wyposażenie, tworzą przyjemną przestrzeń. Nie posiada piwnicy. Miejsca parkingowe ogólnodostępne na ulicy.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eKomunikacja miejska:\u003c/strong\u003e\u003cbr /\u003e\nDo przystanku tramwajowego (Urzędnicza) przy ul. Królewskiej jest 300m. Jeżdżą tam tramwaje nr 4, 8, 13, 14, 24,  dojazd do Rynku Głównego zajmuje 5min.\u003cbr /\u003e\nLinia autobusowa 664 \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eMedia oraz Opłaty:\u003c/strong\u003e\u003cbr /\u003e\nczynsz miesięczny: 2700 pln\u003cbr /\u003e\nkaucja zwrotna: 2700 pln\u003cstrong\u003e\u003cbr /\u003e\n\u003c/strong\u003eczynsz administracyjny: 210 pln \u003cbr /\u003e\nPrąd: wg zużycia (nowoczesne i oszczędne ogrzewanie elektryczne)\u003cbr /\u003e\nWoda ciepła z bojlera.\u003cbr /\u003e\nŚwiatłowód\u003cbr /\u003e\n\u003cbr /\u003e\nSerdecznie zapraszam zainteresowanych na prezentację mieszkania.\u003c/p\u003e",
+     "title": "Wynajmę 2 pokojowe mieszkanie w centrum Krakowa",
+     "url": "https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-w-centrum-krakowa-CID3-IDYLzLD.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07047,
+      "lon": 19.92105,
+      "radius": 0
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "41.35",
+       "value": "41,35 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "210",
+       "value": "210 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2700
+      }
+     }
+    },
+    {
+     "id": 898275196,
+     "isActive": true,
+     "createdTime": "2024-02-17T20:37:09+01:00",
+     "description": "Do wynajęcia mieszkanie położone w krakowskiej Krowodrzy na osiedlu Nowa 5 Dzielnica. Osiedle zamkniete, monitorowane.\u003cbr /\u003e\n\u003cbr /\u003e\nMIESZKANIE:\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie 40 m2 zlokalizowane przy Wrocławskiej 53M na 5 piętrze-budynek z windą. Dwa niezależne pokoje z wspólnym balkonem. Kuchnia oddzielnie.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie swieżo malowane.\u003cbr /\u003e\n\u003cbr /\u003e\nKuchnia wyposazona w płytę indukcyjną, okap, piekarnik, czajnik, mikrofalówkę, stół z krzesłami.\u003cbr /\u003e\nW każdym pokoju duża szafa przesówna oraz łóżko. W razie potrzeby możemy doposarzyć w biórka.\u003cbr /\u003e\n\u003cbr /\u003e\nW łazience prysznic, podwieszana toaleta oraz pralko-suszarka.\u003cbr /\u003e\n\u003cbr /\u003e\nW budynku znajduje sie wspolna rowerownia.\u003cbr /\u003e\n\u003cbr /\u003e\nW POBLIŻU:\u003cbr /\u003e\n Biedronka, Żabki, siłownia, salony kosmetyczne, piekarnie\u003cbr /\u003e\n\u003cbr /\u003e\nCENA:\u003cbr /\u003e\n- 2500 zł odstępne\u003cbr /\u003e\n- zaliczka ok. 500 zł czynsz administracyjny/wg zurzycia\u003cbr /\u003e\n- ok 50-80zł prąd/wg zurzycia\u003cbr /\u003e\n- 2500 zł kaucja zwrotna",
+     "title": "Wynajmę mieszkanie 2 pokojowe Kraków ul. Wrocławska Nowa 5 Dzielnica",
+     "url": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-krakow-ul-wroclawska-nowa-5-dzielnica-CID3-IDYN4pC.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_5",
+       "value": "5"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "40",
+       "value": "40 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "500",
+       "value": "500 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2500
+      }
+     }
+    },
+    {
+     "id": 897134200,
+     "isActive": true,
+     "createdTime": "2024-02-12T18:41:26+01:00",
+     "description": "Wynajmę mieszkanie o powierzchni 36,00 m2 w Krakowie, przy ul. Ostatniej (w okolicy Tauron Arena), na parterze w bloku mieszkalnym.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie składa się z przedpokoju, kuchni, pokoju, łazienki oraz jest wyposażone w balkon.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie jest w bardzo dobrym stanie i znajduje się w miejscu bardzo dobrze skomunikowanym z innymi częściami miasta (tramwaj). W okolicy znajdują się liczne sklepy oraz tereny rekreacyjne.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie jest wyposażone w centralne ogrzewanie oraz instalację wodno- kanalizacyjną (brak gazu, brak pieca do ogrzewania wody), jest również w pełni umeblowane (wszystkie sprzęty i meble są w bardzo dobrym stanie).\u003cbr /\u003e\n\u003cbr /\u003e\nKoszty najmu: czynsz w kwocie 2.100,00 zł plus opłaty (należności do wspólnoty, a w tym woda i śmieci, oraz prąd, które obecnie wynoszą łącznie ok. 730,00 zł).\u003cbr /\u003e\n\u003cbr /\u003e\nKaucja: 2.100,00 zł\u003cbr /\u003e\n\u003cbr /\u003e\nWyłącznie umowa najmu okazjonalnego.\u003cbr /\u003e\n\u003cbr /\u003e\nNiniejsze ogłoszenie jest ogłoszeniem prywatnym (bez pośredników). NIE WSPÓŁPRACUJĘ Z POŚREDNIKAMI.\u003cbr /\u003e\n\u003cbr /\u003e\nW przypadku pytań, proszę o kontakt.",
+     "title": "najem mieszkania w Krakowie przy ul. Ostatniej",
+     "url": "https://www.olx.pl/d/oferta/najem-mieszkania-w-krakowie-przy-ul-ostatniej-CID3-IDYIhAs.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "36",
+       "value": "36 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "600",
+       "value": "600 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2100
+      }
+     }
+    },
+    {
+     "id": 898250735,
+     "isActive": true,
+     "createdTime": "2024-02-17T18:47:25+01:00",
+     "description": "Do wynajęcia mieszkanie w wyremontowanym, ocieplonym, ogrodzonym bloku przy ulicy Chocimskiej 1. W mieszkaniu mogą spać 4 osoby. Mieszkanie składa się z 2 sypialni, kuchni, łazienki, salonu oraz przestronnego przedpokoju. Mieszkanie w pełni wyposażone (pralka, lodówka, piekarnik, mikrofala, czajnik, odkurzacz, sztućce, talerze, szklanki itp).\u003cbr /\u003e\nMieszkanie jest bardzo przestronne i jasne, prawie 80 mkw z oknami na wschód oraz zachód.\u003cbr /\u003e\nW pierwszej sypialni znajdują się w dwa łóżka (tapczan oraz rozkladana sofa), szafa oraz 2 biurka.\u003cbr /\u003e\nW drugiej sypialni jest łóżko małżeńskie, kilka szaf, toaletka, telewizor oraz biurko.\u003cbr /\u003e\nPonadto w mieszkaniu znajduje się salon w którym stoją się dwa fotele, regał na książki, szafy i biurko (tak jak na zdjęciach).\u003cbr /\u003e\nMieszkanie posiada ogrzewanie miejskie CO i podłączony internet. \u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowo do wynajęcia garaż pod blokiem w cenie 300 PLN/msc\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie w odległości 20 minut pieszo od rynku głównego. Bardzo dobrze skomunikowane. Przystanek autobusowy w odległości 50m. Przystanek tramwajowy w odległości 400m (Urzędnicza). W pobliżu Carrefour, Aldi, biedronka, apteka, kościół, sporo barów i restauracji, Rossman, prężnie działający targ warzywny oraz sklepy całodobowe\u003cbr /\u003e\nJest też rowerownia do użytku wspólnego mieszkańców.\u003cbr /\u003e\n\u003cbr /\u003e\nWynajem bezpośrednio od właściciela, a więc brak prowizji dla pośrednika\u003cbr /\u003e\n\u003cbr /\u003e\nCena: 2300 PLN + czynsz (około 780 PLN obejmujący zaliczki na CO i wodę) + prąd (150-200 zł) + internet (78 zł)\u003cbr /\u003e\n\u003cbr /\u003e\nKaucja zwrotna 2500 zł\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie dostępne od 27 lutego\u003cbr /\u003e\n\u003cbr /\u003e\nUmowa na okres 12 miesięcy.",
+     "title": "Krowodrza | Chocimska |Mieszkanie 2 sypialnie | AGH, UP | Bezpośrednio",
+     "url": "https://www.olx.pl/d/oferta/krowodrza-chocimska-mieszkanie-2-sypialnie-agh-up-bezposrednio-CID3-IDYMY35.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "79",
+       "value": "79 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "780",
+       "value": "780 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2300
+      }
+     }
+    },
+    {
+     "id": 894667270,
+     "isActive": true,
+     "createdTime": "2024-02-01T14:15:45+01:00",
+     "description": "Wynajmę mieszkanie o powierzchni 41 m2 składające się z salonu z aneksem kuchennym, wygodnej  sypialni, łazienki, oddzielnej garderoby oraz przedpokoju. Mieszkanie posiada spory bardzo przyjemny balkon (idealny na poranną kawkę w letnie poranki), mieszkanie jest dwustronne okna skierowane są na południowo-wschodnią oraz południowo-zachodnią stronę. Mieszkanie jest świetnie wykończone i w pełni wyposażone, znajduje się na drugim piętrze (nie ma windy) w bardzo zadbanej i cichej kamienicy (kompleksowy remont był wykonany w 2014 roku).\u003cbr /\u003e\nOgrzewane i ciepła woda dostarczane jest z gazowej kotłowni zarządzanej przez wspólnotę mieszkaniową. Kuchnia wyposażona w lodówkę, zmywarkę, płytę indukcyjną i piekarnik z funkcją mikrofali.\u003cbr /\u003e\nMieszkanie dostępne od 01 lutego.\u003cbr /\u003e\nCzynsz miesięczny 2.700 PLN.\u003cbr /\u003e\nOpłaty do wspólnoty 570 PLN miesięcznie (w tym są zaliczki na centralne ogrzewania, ciepłą i zimną wodę oraz opłatę za śmieci za 2 osoby).\u003cbr /\u003e\nPrąd wg zużycia (około 100 PLN miesięcznie) \u003cbr /\u003e\nUmowa na minimum jeden rok.\u003cbr /\u003e\nBez zwierząt.\u003cbr /\u003e\nKaucja 3.500 PLN.\u003cbr /\u003e\nProszę o kontakt 60*******07",
+     "title": "Dwupokojowe 41m2, bezpośrednio Konarskiego Lea",
+     "url": "https://www.olx.pl/d/oferta/dwupokojowe-41m2-bezposrednio-konarskiego-lea-CID3-IDYxWPg.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "kamienica",
+       "value": "Kamienica"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "41",
+       "value": "41 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "570",
+       "value": "570 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2700
+      }
+     }
+    },
+    {
+     "id": 898216620,
+     "isActive": true,
+     "createdTime": "2024-02-17T16:30:38+01:00",
+     "description": "Do wynajęcia od zaraz mieszkanie w wysokim standardzie, 2 pokojowe z oddzielną kuchnią, balkonem oraz komórką lokatorską i miejscem parkingowym naziemnym.\u003cbr /\u003e\n\u003cbr /\u003e\nENGLISH VERSION BELOW\u003cbr /\u003e\n\u003cbr /\u003e\nLOKALIZACJA\u003cbr /\u003e\nDzielnica: Krowodrza\u003cbr /\u003e\nUlica: Aleja Kijowska\u003cbr /\u003e\nPrzystanek: Biprostal\u003cbr /\u003e\nW pobliżu: restauracje, market, liczne sklepy oraz punkty usługowe\u003cbr /\u003e\n\u003cbr /\u003e\nBUDYNEK\u003cbr /\u003e\nRodzaj budynku: Blok mieszkalny\u003cbr /\u003e\n\u003cbr /\u003e\nAPARTAMENT\u003cbr /\u003e\nPiętro: 3/5\u003cbr /\u003e\nPowierzchnia: 53 m2\u003cbr /\u003e\n\u003cbr /\u003e\nOPIS NIERUCHOMOŚCI\u003cbr /\u003e\nDo wynajęcia piękne mieszkanie w wysokim standardzie, 2 pokoje, kuchnia, łazienka, balkon, komórka lokatorska oraz parking naziemny. 53 m2, znajduje się na trzecim piętrze w pięciopiętrowym budynku. Ekspozycja dwustronna wschód oraz zachód. Ogrzewanie oraz woda miejskie. Okna PCV, na podłodze wysokiej jakości parkiet. Drzwi są antywłamaniowe, budynek jest monitorowany.\u003cbr /\u003e\nMieszkanie jest wyposażone w lodówkę z zamrażalką, płytę grzewczą indukcyjną, piekarnik, zmywarkę, czajnik, okap, pralkę oraz telewizor.\u003cbr /\u003e\nWięcej informacji udzielę telefonicznie.\u003cbr /\u003e\nZapraszam do kontaktu i na prezentację.\u003cbr /\u003e\n\u003cbr /\u003e\nDODATKOWE INFORMACJE\u003cbr /\u003e\n- dostępne od zaraz\u003cbr /\u003e\n- 2 pokojowe mieszkanie z balkonem, komórką lokatorską, parkingiem\u003cbr /\u003e\n- wysoki standard\u003cbr /\u003e\n- świetna lokalizacja\u003cbr /\u003e\n- w pełni wyposażone\u003cbr /\u003e\n\u003cbr /\u003e\nCENA\u003cbr /\u003e\n- 3800 zł czynsz najmu\u003cbr /\u003e\n- 560 zł opłaty administracyjne, prąd wg. zużycia\u003cbr /\u003e\n- 3800 zł kaucja zwrotna po okresie najmu\u003cbr /\u003e\n- prowizja dla biura nieruchomości\u003cbr /\u003e\n\u003cbr /\u003e\n-\u003cbr /\u003e\n\u003cbr /\u003e\nA high standard, 2-room apartment with a separate kitchen, balcony, storage room and above-ground parking space for rent immediately.\u003cbr /\u003e\n\u003cbr /\u003e\nLOCATION\u003cbr /\u003e\nDistrict: Krowodrza\u003cbr /\u003e\nStreet: Aleja Kijowska\u003cbr /\u003e\nStop: Biprostal\u003cbr /\u003e\nNearby: restaurants, market, numerous shops and service points\u003cbr /\u003e\n\u003cbr /\u003e\nBUILDING\u003cbr /\u003e\nBuilding type: Apartment block\u003cbr /\u003e\n\u003cbr /\u003e\nAPARTMENT\u003cbr /\u003e\nFloor: 3/5\u003cbr /\u003e\nArea: 53 m2\u003cbr /\u003e\n\u003cbr /\u003e\nDESCRIPTION OF THE PROPERTY\u003cbr /\u003e\nA beautiful, high standard apartment for rent, 2 rooms, kitchen, bathroom, balcony, storage room and above-ground parking lot. 53 m2, located on the third floor of a five-story building. Double-sided exposure, east and west. Municipal heating and water. PVC windows, high-quality parquet floor. The doors are anti-burglary and the building is monitored.\u003cbr /\u003e\nThe apartment is equipped with a fridge with freezer, induction hob, oven, dishwasher, kettle, hood, washing machine and TV.\u003cbr /\u003e\nI will provide more information by phone.\u003cbr /\u003e\nI invite you to contact me and for a presentation.\u003cbr /\u003e\n\u003cbr /\u003e\nADDITIONAL INFORMATION\u003cbr /\u003e\n- available immediately\u003cbr /\u003e\n- 2-room apartment with balcony, storage room, parking\u003cbr /\u003e\n- high standard\u003cbr /\u003e\n- great location\u003cbr /\u003e\n- fully equipped\u003cbr /\u003e\n\u003cbr /\u003e\nPRICE\u003cbr /\u003e\n- PLN 3,800 rent\u003cbr /\u003e\n- PLN 560 administrative fees, electricity acc. wear and tear\u003cbr /\u003e\n- PLN 3,800 refundable deposit after the rental period\u003cbr /\u003e\n- commission for the real estate agency\u003cbr /\u003e\n\u003cbr /\u003e\nKontakt do Brokera:\u003cbr /\u003e\nAldona Bzdyl\u003cbr /\u003e\ntel.: +48**********76\u003cbr /\u003e\nI'm on Whatsapp",
+     "title": "ENG| Krowodrza, 53 m2, 2 pokoje, balkon, parking",
+     "url": "https://www.olx.pl/d/oferta/eng-krowodrza-53-m2-2-pokoje-balkon-parking-CID3-IDYMPaQ.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "53",
+       "value": "53 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "560",
+       "value": "560 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3800
+      }
+     }
+    },
+    {
+     "id": 894072461,
+     "isActive": true,
+     "createdTime": "2024-01-29T19:16:45+01:00",
+     "description": "[ENGLISH BELOW]\u003cbr /\u003e\nAdres: Kraków, ul. Oboźna 11. Apartament dobrze doświetlony zachodnim światłem: salon z aneksem kuchennym i jadalnią, balkonem, sypialnia, łazienka - 41,59 m2. Apartamentowiec w spokojnej okolicy, przy cichej ulicy, 27 minut na piechotę od Rynku Głównego wg google maps. Mieszkanie umeblowane, wyposażone w podstawowe AGD (pralka, zmywarka). Szerokopasmowy internet i sygnał telewizji kablowej. Nowe szafki kuchenne, zmywarka i okap.\u003cbr /\u003e\nOgrzewanie miejskie - relatywnie niskie koszty (historia rozliczeń ze wspólnotą do wglądu). III piętro, duża nowoczesna winda, przestronna klatka schodowa z holem i portiernią. Budynek leży w strefie płatnego parkowania oraz posiada własny parking podziemny - przy budynku przeważnie można znaleźć miejsce postojowe (apartament nie posiada miejsca postojowego w garażu podziemnym). Parkowanie na ulicy (strefa) - abonament dla mieszkańców ok.120 zł/rok. Ponadto wspólnota posiada kilka darmowych miejsc postojowych dla mieszkańców (bez możliwości rezerwacji na wyłączność). Budynek położny bliżej centrum i w nieporównywalnie mniej intensywnej zabudowie niż tzw. Nowa Piąta Dzielnica. Prezentowane ogłoszenie nie jest ofertą w rozumieniu Kodeksu Cywilnego. Najem bezpośrednio od właściciela (brak prowizji). Dostępne od 1 marca 2024. \u003cbr /\u003e\nCharakterystyka energetyczna:\u003cbr /\u003e\nwskaźniki rocznego zapotrzebowania na energię użytkową EU = 46,71 kWh/(m2 · rok), energię końcową EK = 55,95 kWh/(m2 · rok), nieodnawialną energię pierwotną EP = 72,73 kWh/(m2 · rok),\u003cbr /\u003e\nudział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową Uoze = 0,00 %,\u003cbr /\u003e\njednostkową wielkość emisji CO2  ECO2 = 0,02 t CO2/(m2 · rok). \u003cbr /\u003e\n\u003cbr /\u003e\nAddress: Krakow, ul.Obozna 11. Apartment well lit from western side: living room with kitchenette and dining area, balcony, bedroom, bathroom - 41,59 sqm. Apartment building in a calm neighborhood, in a quiet street, 27 minutes on foot from the Main Square according to google maps. The apartment is furnished, equipped with basic household appliances (washing machine, dishwasher). Broadband internet and cable TV signal. New kitchen cabinets, dishwasher, kitchen hood. District heating - relatively low costs (bill history from the community for review). 3rd floor, large modern elevator, spacious staircase with a hall and a reception desk. The building is located in a paid parking zone and has its own underground car park - you can usually find a parking space next to the building (parking space in garage is not included). Parking on the street (zone) - subscription for residents approx. PLN 120 / year. In addition, the community has several free parking spaces for residents (without the possibility of exclusive booking). The building  is located closer to the center and in incomparably less densely developed buildings than the so-called The new, fifth district. The presented advertisement is not an offer within the meaning of the Civil Code. Lease directly from the owner (no commission). Available from 1st March 2024\u003cbr /\u003e\nEnergy characteristics:\u003cbr /\u003e\nindicators of annual demand for useful energy EU = 46.71 kWh/(m2 · year), final energy EK = 55.95 kWh/(m2 · year), non-renewable primary energy EP = 72.73 kWh/(m2 · year),\u003cbr /\u003e\nshare of renewable energy sources in the annual final energy demand Uoze = 0.00%,\u003cbr /\u003e\nunit CO2 emissions ECO2 = 0.02 t CO2/(m2 · year).\u003cbr /\u003e\n\u003cbr /\u003e\nOdstępne - 2750 zł/mc \u003cbr /\u003e\n+ dodatkowe koszty zależne od zużycia mediów ok.968 zł/mc (ostatni najemca)\u003cbr /\u003e\nkaucja 3000 zł\u003cbr /\u003e\nDodatkowe koszty wg zużycia - prognoza -  ok. 968 zł w tym:\u003cbr /\u003e\n- czynsz administracyjny stały (niezależnie od ilości osób) 502 zł\u003cbr /\u003e\n- odpady 27 zł/ os.\u003cbr /\u003e\n- opłaty (woda, ścieki, ogrzewanie miejskie) średnio miesięcznie  z ostatnich 12 mcy - 320 zł\u003cbr /\u003e\n- prąd średnio miesięcznie - 84 zł\u003cbr /\u003e\n- internet UPC – 35 zł\u003cbr /\u003e\n\u003cbr /\u003e\nKontakt właściciel: Marcin Kucharczyk; tel.6******75; marcin.kucharczyk[at)gmail.com\u003cbr /\u003e\n\u003cbr /\u003e\nRent PLN 2750 / month \u003cbr /\u003e\n+ additional costs depending on media consumption approx.PLN 968 / month (last tenant) \u003cbr /\u003e\ndeposit PLN 3,000 \u003cbr /\u003e\n\u003cbr /\u003e\nAdditional costs according to consumption mentioned above  - approx. PLN 968 including: \u003cbr /\u003e\n- permanent administrative rent (regardless of the number of people) PLN 502 \u003cbr /\u003e\n- waste 27 PLN / person \u003cbr /\u003e\n- charges (water, sewage, district heating) monthly based on 12 month history - PLN 320\u003cbr /\u003e\n- electricity - monthly based on 12 month history PLN 84\u003cbr /\u003e\n- internet UPC – PLN 35\u003cbr /\u003e\n\u003cbr /\u003e\ncontact the owner: Marcin Kucharczyk; tel.6******75; marcin.kucharczyk(at)gmail.com\u003cbr /\u003e\n\u003cbr /\u003e\nPrzedstawiany materiał ma charakter informacyjny i nie jest ofertą w rozumieniu kodeksu cywilnego.\u003cbr /\u003e\nThe above presented data is only for information. It shall not be considered an offer as understood by Polish Civil Law.",
+     "title": "No commission, apartment city center, reception, Kraków, ul. Oboźna 11",
+     "url": "https://www.olx.pl/d/oferta/no-commission-apartment-city-center-reception-krakow-ul-obozna-11-CID3-IDYwr5z.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_3",
+       "value": "3"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "41.59",
+       "value": "41,59 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "502",
+       "value": "502 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2750
+      }
+     }
+    },
+    {
+     "id": 827419693,
+     "isActive": true,
+     "createdTime": "2023-04-07T08:47:37+02:00",
+     "description": "Do wynajęcia mieszkania położone w krakowskiej Krowodrzy na osiedlu Nowa 5 Dzielnica. Lokalizacja ta jest świetnie skomunikowana z całym miastem. Od Starego Miasta dzieli nas zaledwie 10 minut autem.\u003cbr /\u003e\n\u003cbr /\u003e\nMIESZKANIE:\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie 45 m2 zlokalizowane jest przy Wrocławskiej 53M na 2 piętrze 6 piętrowego budynku. I podzielone jest na dwa niezależne pokoje z aneksem kuchennym.\u003cbr /\u003e\n\u003cbr /\u003e\nWnętrze po remoncie wyposażone zostało we wszystkie przedmioty niezbędne do życia. Wewnątrz znajdziemy: \u003cbr /\u003e\n- pełne wyposażenie kuchenne w tym wysokiej jakości zastawę stołową \u003cbr /\u003e\n- artykuły gospodarcze: odkurzacz, czajnik, żelazko, suszarka do ubrań itp.\u003cbr /\u003e\n- dwa komplety nowej pościeli '\u003cbr /\u003e\n- dwa telewizory zlokalizowane kolejno: 65\" w salonie i 55\" wewnątrz sypialni\u003cbr /\u003e\n- w  przestronnym salonie znajduje się rozkładany narożnik \u003cbr /\u003e\n- klimatyzację \u003cbr /\u003e\nPrócz wspomnianych wyżej w mieszkaniu znajduje się wiele szaf i miejsc do przechowywania rzeczy. \u003cbr /\u003e\n\u003cbr /\u003e\nW POBLIŻU:\u003cbr /\u003e\n\u003cbr /\u003e\nW bezpośrednim sąsiedztwie znajdziemy wiele lokali usługowo handlowych, w tym liczne sklepy (Biedronka, Żabka, Kaufland), siłownie, salony kosmetyczne, piekarnie, centra handlowe.\u003cbr /\u003e\n\u003cbr /\u003e\nCENA: 4 500 ZŁ  \u003cbr /\u003e\nCena obejmuje następujące składowe:\u003cbr /\u003e\n- 3 950 zł odstępne\u003cbr /\u003e\n- 500 zł czynsz administracyjny\u003cbr /\u003e\n- 200 zł prąd\u003cbr /\u003e\n- 100 zł internet z pakietem telewizyjnym\u003cbr /\u003e\n- 2000 zł kaucja zwrotna\u003cbr /\u003e\nopcjonalne:\u003cbr /\u003e\n- 200 zł miejsce postojowe wewnętrzne\u003cbr /\u003e\n- 150 zł komórka lokatorska\u003cbr /\u003e\n\u003cbr /\u003e\nW swojej ofercie posiadamy mieszkania o innej powierzchni i układzie. Ceny mieszkań od 2 530 zł.\u003cbr /\u003e\n\u003cbr /\u003e\nW celu uzyskania szczegółowej oferty zapraszamy do kontaktu 53*******00.\u003cbr /\u003e\n\u003cbr /\u003e\nFor rent apartments located in Krakow's Krowodrza on the estate of Nowa 5 Dzielnica. This location is well connected to the entire city. It is only 10 minutes by car from the Old Town.\u003cbr /\u003e\n\u003cbr /\u003e\nRESIDENCE:\u003cbr /\u003e\n\u003cbr /\u003e\nThe apartment of 45 m2 is located at 53M Wroclawska Street on the 2nd floor of a 6-story building. And is divided into two independent rooms with a kitchenette.\u003cbr /\u003e\n\u003cbr /\u003e\nThe interior after renovation was equipped with all items necessary for life. Inside you will find: \u003cbr /\u003e\n- full kitchen equipment including high-quality tableware \u003cbr /\u003e\n- household items: vacuum cleaner, kettle, iron, clothes dryer, etc.\u003cbr /\u003e\n- two sets of new bedding '\u003cbr /\u003e\n- two TVs located successively: 65\" in the living room and 55\" inside the bedroom\u003cbr /\u003e\n- in the spacious living room there is a folding corner sofa \u003cbr /\u003e\n- air conditioning \u003cbr /\u003e\nIn addition to the above mentioned in the apartment there are many closets and places to store things. \u003cbr /\u003e\n\u003cbr /\u003e\nIN THE NEIGHBORHOOD:\u003cbr /\u003e\n\u003cbr /\u003e\nIn the immediate vicinity you will find many commercial and service establishments, including numerous stores (Biedronka, Żabka, Kaufland), gyms, beauty salons, bakeries, shopping malls.\u003cbr /\u003e\n\u003cbr /\u003e\nPRICE: 4 500 ZŁ  \u003cbr /\u003e\n\u003cbr /\u003e\nThe price includes the following components:\u003cbr /\u003e\n- PLN 3,950 rent\u003cbr /\u003e\n- 500 zł administrative rent\u003cbr /\u003e\n- 200 zł electricity\u003cbr /\u003e\n- 100 zł internet with television package\u003cbr /\u003e\n- 2000 zł refundable deposit\u003cbr /\u003e\noptional:\u003cbr /\u003e\n- 200 zł internal parking space\u003cbr /\u003e\n- 150 zł storeroom\u003cbr /\u003e\n\u003cbr /\u003e\nWe offer apartments with other areas and layouts. Apartment prices start from 2 530 PLN.\u003cbr /\u003e\n\u003cbr /\u003e\nFor a detailed offer, please contact 53*******00.\u003cbr /\u003e\n\u003cbr /\u003e\nЗдається в оренду квартира в краківському районі Кроводжа на вулиці Нова 5 Дзєльніца (Nowa 5 Dzielnica). Це місце добре сполучено з усім містом. До Старого міста лише 10 хвилин на машині.\u003cbr /\u003e\n\u003cbr /\u003e\nРЕЗИДЕНЦІЯ:\u003cbr /\u003e\n\u003cbr /\u003e\nКвартира площею 45 м2 розташована на вулиці Вроцлавській 53М на 2 поверсі 6-поверхового будинку. Вона розділена на дві незалежні кімнати з міні-кухнею.\u003cbr /\u003e\n\u003cbr /\u003e\nІнтер'єр після ремонту обладнаний усіма необхідними для життя предметами. Всередині ви знайдете \u003cbr /\u003e\n- повне кухонне обладнання, включаючи високоякісний посуд \u003cbr /\u003e\n- предмети побуту: пилосос, чайник, праска, сушарка для білизни тощо\u003cbr /\u003e\n- два комплекти нової постільної білизни '\u003cbr /\u003e\n- два телевізори, розташовані послідовно: 65\" у вітальні та 55\" у спальні\u003cbr /\u003e\n- у просторій вітальні є розкладний кутовий диван \u003cbr /\u003e\n- кондиціонер \u003cbr /\u003e\nНа додаток до вищезазначеного, в квартирі є багато шаф і місць для зберігання речей. \u003cbr /\u003e\n\u003cbr /\u003e\nПО СУСІДСТВУ:\u003cbr /\u003e\n\u003cbr /\u003e\nУ безпосередній близькості ви знайдете багато комерційних та сервісних закладів, включаючи численні магазини (Biedronka, Żabka, Kaufland), тренажерні зали, салони краси, пекарні, торгові центри.\u003cbr /\u003e\n\u003cbr /\u003e\nЦІНА: 4 500 ЗЛОТИХ  \u003cbr /\u003e\n\u003cbr /\u003e\nЦіна включає наступні компоненти:\u003cbr /\u003e\n- 3 950 злотих оренда\u003cbr /\u003e\n- 500 злотих адміністративний збір\u003cbr /\u003e\n- 200 злотих електроенергія\u003cbr /\u003e\n- 100 zł інтернет з телевізійним пакетом\u003cbr /\u003e\n- 2000 zł застава, що повертається\u003cbr /\u003e\nза бажанням\u003cbr /\u003e\n- 200 zł внутрішнє місце для паркування\u003cbr /\u003e\n- 150 zł комора\u003cbr /\u003e\n\u003cbr /\u003e\nПропонуємо квартири з різною площею та плануванням. Ціни на квартири від 2 530 злотих.\u003cbr /\u003e\n\u003cbr /\u003e\nЗа детальною пропозицією звертайтеся за телефоном 53*******00.",
+     "title": "Krowodrza | Nowa 5 dzielnica | 2 pokoje 45m2  | Garaż",
+     "url": "https://www.olx.pl/d/oferta/krowodrza-nowa-5-dzielnica-2-pokoje-45m2-garaz-CID3-IDTZLEW.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_2",
+       "value": "2"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "36",
+       "value": "36 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "870",
+       "value": "870 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3600
+      }
+     }
+    },
+    {
+     "id": 865876726,
+     "isActive": true,
+     "createdTime": "2023-09-29T14:33:59+02:00",
+     "description": "Dzień dobry,\u003cbr /\u003e\n\u003cbr /\u003e\ndo wynajęcia jednopokojowe mieszkanie na Przybyszewskiego 2B, tuż przy Bronowickiej 58. \u003cbr /\u003e\nOd 1 MARCA.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie składa się z pokoju, kuchni i osobnej toalety i łazienki.\u003cbr /\u003e\n\u003cbr /\u003e\nCałe mieszkanie jest świeżo wyremontowane i  umeblowane (zdjęcia). Nowa LODÓWKA, PRALKA, MIKROFALA, PŁYTA CERAMICZNA, CZAJNIKI ITP.  Łóżko jest giga wygodne i rozkładane do 160cm. \u003cbr /\u003e\n\u003cbr /\u003e\nCzekam jeszcze na dostawę stołu i 4 krzeseł, które postawie przed kaloryferem, pod oknami oraz mini garderoby oraz wieszaczki w toalecie i łazience. \u003cbr /\u003e\n\u003cbr /\u003e\nJest to mieszkanie pod każdym względem wyjątkowe i bardzo cooltowe i takie loftowe :-)\u003cbr /\u003e\n\u003cbr /\u003e\nNiebywałą jego zaletą jest jego naturalna klimatyzacja w lecie i ciepło w zimie. Plus to, że znajduje się w nowym i bardzo zadbanym budynku, na którym są tylko trzy mieszkania, więc zapewniona mega cisza, komfort, bezpieczeństwo i spokój.\u003cbr /\u003e\n\u003cbr /\u003e\nPonieważ mam do niego osobisty sentyment  to zastrzegam sobie możliwość decyzji przyszłych najemców.\u003cbr /\u003e\n\u003cbr /\u003e\nIDEALNE DLA jednej osoby lub PARKI!!\u003cbr /\u003e\n\u003cbr /\u003e\nKoszty\u003cbr /\u003e\nKoszty za media  są stałe. Przy najmie dla jednej osoby jest to kwota 570, a przy najmie dla dwóch osób - 750zł.  Ryczałt ten obejmuje WSZYSTKIE !!! opłaty eksploatacyjne czyli czynsz do administracji, prąd, woda ciepła i zimna oraz OGRZEWANIE. Do opłaty wyłącznie internet.\u003cbr /\u003e\n\u003cbr /\u003e\nBudynek w super miejscu komunikacyjnym, 10 min każdym tramwajem na Rynek.\u003cbr /\u003e\nW pobliżu różnorakie sklepy, komisy, fryzjer, kosmetyka, itp.\u003cbr /\u003e\nUmiejscowienie idealne dla zainteresowanych wylotem na autostradę, pracujących w Onecie, Galileo, Newtonie itp. Blisko uczelnie do AGH, Uniwerystet Pedagogiczny\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie przeznaczone\u003cbr /\u003e\nMAXYMALNIE dla 2 osób !! Ale idealne dla 1 \u003cbr /\u003e\nNIE PALĄCYCH I BEZ TYGRYSA BENGALSKIEGO !\u003cbr /\u003e\n\u003cbr /\u003e\nWolne od około 1 MARCA\u003cbr /\u003e\n\u003cbr /\u003e\nOdpadają osoby palące! To mój warunek !\u003cbr /\u003e\n\u003cbr /\u003e\nW celu oglądania mieszkania proszę dzwonić do mnie 6*6*8*4*7*7*9*4*7",
+     "title": "Do wynajęcia cooltowe i LOFTOWE M1, Bronowicka 58, niskie media",
+     "url": "https://www.olx.pl/d/oferta/do-wynajecia-cooltowe-i-loftowe-m1-bronowicka-58-niskie-media-CID3-IDVB85E.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "27",
+       "value": "27 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "one",
+       "value": "Kawalerka"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "1",
+       "value": "1 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 1850
+      }
+     }
+    },
+    {
+     "id": 898141508,
+     "isActive": true,
+     "createdTime": "2024-02-17T12:01:26+01:00",
+     "description": "Do wynajęcia mieszkanie 47m2 znajdujące się przy ul. Kluczborskiej.\u003cbr /\u003e\n\u003cbr /\u003e\nOgłoszenie prywatne - pośrednikom dziękuję - najemca nie płaci dodatkowej prowizji!\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie zostało odświeżone.\u003cbr /\u003e\n\u003cbr /\u003e\nSkłada się z salonu połączonego z widną kuchnia, sypialni, łazienki oraz przedpokoju.\u003cbr /\u003e\nZ salonu jest wyjście na balkon.\u003cbr /\u003e\nŁazienka wyposażona w prysznic.\u003cbr /\u003e\nW przedpokoju duża szafa.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie wyposażone i umeblowane - m.in: sprzęt AGD (TV, lodówka, płyta indukcyjna, piekarnik, zmywarka, okap, pralka), stół, krzesła, łóżko, komoda, sofa, regały, szafka pod tv.\u003cbr /\u003e\n\u003cbr /\u003e\nInternet UPC.\u003cbr /\u003e\n\u003cbr /\u003e\nEkspozycja okien na południe i wschód.\u003cbr /\u003e\n\u003cbr /\u003e\nOgrzewanie i ciepła woda pochodzi z sieci miejskiej.\u003cbr /\u003e\nBrak gazu.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie dostępne od 1.03.2024 r.\u003cbr /\u003e\n\u003cbr /\u003e\nLokalizacja:\u003cbr /\u003e\nDobrze skomunikowane - bliskie sąsiedztwo pętli Krowodrza Górka, szybki dojazd komunikacją do centrum - najbliższy przystanek 2 minuty pieszo.\u003cbr /\u003e\n\u003cbr /\u003e\nBlisko do obwodnicy - ul Opolska i nowej Trasy wolbromskiej.\u003cbr /\u003e\n\u003cbr /\u003e\nW okolicy punkty handlowo-usługowe.\u003cbr /\u003e\n- sklepy: Kaufland, Netto, Biedronka, Żabka (w budynku obok)\u003cbr /\u003e\n- siłownia\u003cbr /\u003e\n- przychodnie\u003cbr /\u003e\n- 2 punkty pocztowe.\u003cbr /\u003e\n\u003cbr /\u003e\nW pobliżu również Park Krowoderski.\u003cbr /\u003e\n\u003cbr /\u003e\nOpłaty:\u003cbr /\u003e\nCzynsz najmu: 3000 PLN\u003cbr /\u003e\nDodatkowo: Czynsz administracyjny, prąd, woda, ogrzewanie wg. zużycia, internet.\u003cbr /\u003e\n\u003cbr /\u003e\nPoprzedni lokatorzy zapłacili w 2023 roku średnio miesięcznie 830 zł (za wszystkie opłaty w tym internet - realne koszty a nie tylko czynsz administracyjny)\u003cbr /\u003e\n\u003cbr /\u003e\nDodatkowo kaucja.\u003cbr /\u003e\n\u003cbr /\u003e\nWynajem na zasadzie najmu okazjonalnego - akt notarialny itd.",
+     "title": "Kluczborska komfortowe mieszkanie 47m2 - 2 pok",
+     "url": "https://www.olx.pl/d/oferta/kluczborska-komfortowe-mieszkanie-47m2-2-pok-CID3-IDYMwDm.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_1",
+       "value": "1"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "blok",
+       "value": "Blok"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "47",
+       "value": "47 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "830",
+       "value": "830 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 2999
+      }
+     }
+    },
+    {
+     "id": 893477120,
+     "isActive": true,
+     "createdTime": "2024-01-27T10:57:35+01:00",
+     "description": "Do wynajęcia 2-pokojowe mieszkanie w nowym bloku z 2011 roku przy ulicy Narutowicza 14, tuż obok Dworku Białoprądnickiego i Parku Kościuszki. \u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie usytuowane na parterze budynku, w pełni wyposażone i umeblowane z dużym (ponad 30 m2 tarasem).\u003cbr /\u003e\nOgrzewanie podłogowe w całym mieszkaniu, wyposażone w markowy sprzęt AGD oraz zabudowę meblową na wymiar, pojemne szafy w przedpokoju, sypialni oraz elegancka zabudowa kuchenna.\u003cbr /\u003e\n\u003cbr /\u003e\nNa powierzchnię mieszkania 51 m2 składa się:\u003cbr /\u003e\n\u003cbr /\u003e\n-salon ze strefą kuchenną i jadalną;\u003cbr /\u003e\n\u003cbr /\u003e\n-sypialnia;\u003cbr /\u003e\n\u003cbr /\u003e\n-łazienka wspólna z WC;\u003cbr /\u003e\n\u003cbr /\u003e\n-przedpokój;\u003cbr /\u003e\n\u003cbr /\u003e\nDo mieszkanie przynależy miejsce parkingowe przed budynkiem - w cenie.\u003cbr /\u003e\n\u003cbr /\u003e\nCzynsz najmu 3300 zł, czynsz administracyjny 850 zł (zawiera zaliczki na media) dodatkowo płatny prąd, internet.\u003cbr /\u003e\n\u003cbr /\u003e\nWymagana kaucja 7000 zł.\u003cbr /\u003e\n\u003cbr /\u003e\nDoskonały dostęp do komunikacji miejskiej, w pobliżu przystanki autobusowe (100m) i tramwajowe (600m).\u003cbr /\u003e\n\u003cbr /\u003e\nTuż obok znajduje się Park Kościuszki, Dworek Białoprądnicki, kilka restaruracji, Auchan.\u003cbr /\u003e\n\u003cbr /\u003e\nMieszkanie dysponuje dużym drewnianym tarasem, jest bardzo dobrze wyciszone, posiada rolety antywłamaniowe (elektrycznie sterowane), system alarmowy.\u003cbr /\u003e\n\u003cbr /\u003e\nOferta prywatna.",
+     "title": "Mieszkanie do wynajęcia, Prądnik Biały, Narutowicza, 2 pokoje, 51 m2",
+     "url": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-pradnik-bialy-narutowicza-2-pokoje-51-m2-CID3-IDYsVdi.html",
+     "location": {
+      "cityId": 8959,
+      "cityNormalizedName": "krakow",
+      "districtId": 255,
+      "districtName": "Krowodrza",
+      "regionId": 4,
+      "regionNormalizedName": "malopolskie"
+     },
+     "map": {
+      "lat": 50.07159,
+      "lon": 19.91757,
+      "radius": 8
+     },
+     "params": [
+      {
+       "key": "floor_select",
+       "name": "Poziom",
+       "normalizedValue": "floor_0",
+       "value": "Parter"
+      },
+      {
+       "key": "furniture",
+       "name": "Umeblowane",
+       "normalizedValue": "yes",
+       "value": "Tak"
+      },
+      {
+       "key": "builttype",
+       "name": "Rodzaj zabudowy",
+       "normalizedValue": "apartamentowiec",
+       "value": "Apartamentowiec"
+      },
+      {
+       "key": "m",
+       "name": "Powierzchnia",
+       "normalizedValue": "51",
+       "value": "51 m²"
+      },
+      {
+       "key": "rooms",
+       "name": "Liczba pokoi",
+       "normalizedValue": "two",
+       "value": "2 pokoje"
+      },
+      {
+       "key": "rent",
+       "name": "Czynsz (dodatkowo)",
+       "normalizedValue": "850",
+       "value": "850 zł"
+      }
+     ],
+     "price": {
+      "regularPrice": {
+       "value": 3200
+      }
+     }
+    }
+   ],
+   "totalPages": 11
+  }
+ }
+}
