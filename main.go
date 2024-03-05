@@ -14,14 +14,8 @@ import (
 	"time"
 )
 
-const BASE_URL = "https://www.olx.pl/nieruchomosci/mieszkania/wynajem/krakow/"
-
 func main() {
-
-	//flat := &Flat{ExtId: 123}
-	//fmt.Println(flat.ToMailBody())
-	//
-	//os.Exit(0)
+	fmt.Printf("Running at %s\n", time.Now().Format(time.RFC3339))
 	db := GetDB()
 
 	districtId := 255
@@ -49,9 +43,15 @@ func main() {
 		maxPrice, _ = strconv.Atoi(os.Args[5])
 	}
 
+	realMaxPrice := 0
+	if len(os.Args) > 6 {
+		realMaxPrice, _ = strconv.Atoi(os.Args[6])
+	}
+
 	client := http.Client{}
 	i := 1
 	for {
+		fmt.Println("Fetching page " + strconv.Itoa(i))
 		responseHtml, err := fetch(&client, i, districtId, rooms, minArea, minPrice, maxPrice)
 		if err != nil {
 			panic(err)
@@ -92,11 +92,11 @@ func main() {
 	db.Where("is_active", true).Find(&subscriptions)
 
 	var flats []Flat
-	db.Where("notified = ?", false).
+	db.Where("notified = ? and total_price <= ?", false, realMaxPrice).
 		FindInBatches(&flats, 10, func(tx *gorm.DB, batch int) error {
 			for i, flat := range flats {
 				for _, subscription := range subscriptions {
-					fmt.Println(subscription.Address, flat.Title)
+					fmt.Println("Notifying", subscription.Address, flat.ExtId)
 					err := notify(&flat, mail.Address{Address: subscription.Address})
 					if err != nil {
 						fmt.Println(err)
@@ -132,32 +132,48 @@ func extractData(html []byte) (*OriginalJson, error) {
 	return &jsonData, nil
 }
 
-func fetch(client *http.Client, page int, districtId int, rooms int, minArea int, minPrice int, maxPrice int) ([]byte, error) {
-	request, err := http.NewRequest("GET", BASE_URL, nil)
+func fetch(
+	client *http.Client,
+	page int,
+	districtId int,
+	rooms int,
+	minArea int,
+	minPrice int,
+	maxPrice int,
+) ([]byte, error) {
+	request, err := http.NewRequest("GET", os.Getenv("BASE_URL"), nil)
 	if err != nil {
 		panic(err)
 	}
 
-	var stringRooms = ""
-	switch rooms {
-	case 1:
-		stringRooms = "one"
-	case 2:
-		stringRooms = "two"
-	case 3:
-		stringRooms = "three"
-	case 4:
-		stringRooms = "four"
-	}
+	/*
+		var stringRooms = ""
+		switch rooms {
+		case 1:
+			stringRooms = "one"
+		case 2:
+			stringRooms = "two"
+		case 3:
+			stringRooms = "three"
+		case 4:
+			stringRooms = "four"
+		}
+	*/
 
 	q := request.URL.Query()
 	q.Add("page", strconv.Itoa(page))
 	q.Add("search[district_id]", strconv.Itoa(districtId))
 	q.Add("search[filter_enum_furniture][0]", "yes")
 
-	if stringRooms != "" {
+	q.Add("search[filter_enum_rooms][0]", "three")
+	q.Add("search[filter_enum_rooms][1]", "four")
+
+	/*
+		todo
+		if stringRooms != "" {
 		q.Add("search[filter_enum_rooms][0]", stringRooms)
-	}
+		}
+	*/
 
 	if minArea > 0 {
 		q.Add("search[filter_float_m:from]", strconv.Itoa(minArea))
@@ -173,7 +189,6 @@ func fetch(client *http.Client, page int, districtId int, rooms int, minArea int
 
 	request.URL.RawQuery = q.Encode()
 	response, err := client.Do(request)
-	fmt.Println(request.URL)
 	if err != nil {
 		return nil, err
 	}
