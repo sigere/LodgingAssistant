@@ -2,66 +2,27 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
+	"gorm.io/gorm"
 	"io"
 	"net/http"
+	"net/mail"
 	"os"
 	"regexp"
 	"strconv"
+	"time"
 )
 
 const BASE_URL = "https://www.olx.pl/nieruchomosci/mieszkania/wynajem/krakow/"
 
-type Ad struct {
-	Id          int    `json:"id"`
-	IsActive    bool   `json:"isActive"`
-	CreatedTime string `json:"createdTime"`
-	Description string `json:"description"`
-	Title       string `json:"title"`
-	Url         string `json:"url"`
-	Location    struct {
-		CityId               int    `json:"cityId"`
-		CityNormalizedName   string `json:"cityNormalizedName"`
-		DistrictId           int    `json:"districtId"`
-		DistrictName         string `json:"districtName"`
-		RegionId             int    `json:"regionId"`
-		RegionNormalizedName string `json:"regionNormalizedName"`
-	} `json:"location"`
-
-	Map struct {
-		Lat    float64 `json:"lat"`
-		Lon    float64 `json:"lon"`
-		Radius int     `json:"radius"`
-	} `json:"map"`
-
-	Params []struct {
-		Key             string `json:"key"`
-		Name            string `json:"name"`
-		NormalizedValue string `json:"normalizedValue"`
-		Value           string `json:"value"`
-	} `json:"params"`
-
-	Price struct {
-		RegularPrice struct {
-			Value int `json:"value"`
-		} `json:"regularPrice"`
-	} `json:"price"`
-}
-
-type OriginalJson struct {
-	Listing struct {
-		Listing struct {
-			Ads        []Ad `json:"ads"`
-			TotalPages int  `json:"totalPages"`
-		} `json:"listing"`
-	} `json:"listing"`
-}
-
-var paramTypes map[string]string
-var districts map[int]string
-
 func main() {
-	initialize()
+
+	//flat := &Flat{ExtId: 123}
+	//fmt.Println(flat.ToMailBody())
+	//
+	//os.Exit(0)
+	db := GetDB()
 
 	districtId := 255
 	if len(os.Args) > 1 {
@@ -70,7 +31,7 @@ func main() {
 
 	rooms := 0
 	if len(os.Args) > 2 {
-		rooms, _ = strconv.Atoi(os.Args[1])
+		rooms, _ = strconv.Atoi(os.Args[2])
 	}
 
 	minArea := 0
@@ -89,17 +50,71 @@ func main() {
 	}
 
 	client := http.Client{}
-	responseHtml, err := search(&client, districtId, rooms, minArea, minPrice, maxPrice)
-	if err != nil {
-		panic(err)
+	i := 1
+	for {
+		responseHtml, err := fetch(&client, i, districtId, rooms, minArea, minPrice, maxPrice)
+		if err != nil {
+			panic(err)
+		}
+		os.WriteFile("./search_result.html", responseHtml, os.FileMode.Perm(0644))
+
+		jsonData, err := extractData(responseHtml)
+		if err != nil {
+			panic(err)
+		}
+
+		marshalled, err := json.MarshalIndent(jsonData, "", " ")
+		if err != nil {
+			panic(err)
+		}
+		os.WriteFile("./test.json", marshalled, os.FileMode.Perm(0644))
+
+		for _, ad := range jsonData.Listing.Listing.Ads {
+			flat := ad.toFlat()
+			flat.LastChecked = time.Now()
+
+			err := db.Where(Flat{ExtId: uint(ad.Id)}).FirstOrCreate(flat).Error
+			if err != nil {
+				panic(err)
+			}
+
+			flat.LastChecked = time.Now()
+			db.Save(flat)
+		}
+
+		i++
+		if i > jsonData.Listing.Listing.TotalPages || i > 10 {
+			break
+		}
 	}
 
-	os.WriteFile("./search_result.html", responseHtml, os.FileMode.Perm(0644))
+	var subscriptions []Subscription
+	db.Where("is_active", true).Find(&subscriptions)
 
+	var flats []Flat
+	db.Where("notified = ?", false).
+		FindInBatches(&flats, 10, func(tx *gorm.DB, batch int) error {
+			for i, flat := range flats {
+				for _, subscription := range subscriptions {
+					fmt.Println(subscription.Address, flat.Title)
+					err := notify(&flat, mail.Address{Address: subscription.Address})
+					if err != nil {
+						fmt.Println(err)
+					}
+				}
+
+				flats[i].Notified = true
+			}
+			db.Save(flats)
+
+			return nil
+		})
+}
+
+func extractData(html []byte) (*OriginalJson, error) {
 	pattern := regexp.MustCompile(`__PRERENDERED_STATE__= "(.*)";`)
-	match := pattern.FindStringSubmatch(string(responseHtml))
+	match := pattern.FindStringSubmatch(string(html))
 	jsonData := OriginalJson{}
-	//jsonData := map[string]interface{}{}
 	if len(match) > 1 {
 		jsonString := match[1]
 		jsonString, _ = strconv.Unquote(`"` + jsonString + `"`)
@@ -110,22 +125,14 @@ func main() {
 		if err := json.Unmarshal([]byte(jsonString), &jsonData); err != nil {
 			panic(err)
 		}
-
-		//for _, ad := range jsonData.Listing.Listing.Ads {
-		//	fmt.Println(ad.Description)
-		//	fmt.Println("--------------")
-		//}
-
-		file, _ := json.MarshalIndent(jsonData, "", " ")
-		_ = os.WriteFile("test.json", file, 0644)
 	} else {
-		fmt.Println("No match found.")
+		return nil, errors.New("")
 	}
 
-	//fmt.Println("Found " + strconv.Itoa(len(jsonData.Listing.Listing.Ads)) + " adverts")
+	return &jsonData, nil
 }
 
-func search(client *http.Client, districtId int, rooms int, minArea int, minPrice int, maxPrice int) ([]byte, error) {
+func fetch(client *http.Client, page int, districtId int, rooms int, minArea int, minPrice int, maxPrice int) ([]byte, error) {
 	request, err := http.NewRequest("GET", BASE_URL, nil)
 	if err != nil {
 		panic(err)
@@ -144,6 +151,7 @@ func search(client *http.Client, districtId int, rooms int, minArea int, minPric
 	}
 
 	q := request.URL.Query()
+	q.Add("page", strconv.Itoa(page))
 	q.Add("search[district_id]", strconv.Itoa(districtId))
 	q.Add("search[filter_enum_furniture][0]", "yes")
 
@@ -164,8 +172,8 @@ func search(client *http.Client, districtId int, rooms int, minArea int, minPric
 	}
 
 	request.URL.RawQuery = q.Encode()
-	fmt.Println(request.URL.String())
 	response, err := client.Do(request)
+	fmt.Println(request.URL)
 	if err != nil {
 		return nil, err
 	}
@@ -177,20 +185,4 @@ func search(client *http.Client, districtId int, rooms int, minArea int, minPric
 	}
 
 	return body, nil
-}
-
-func initialize() {
-	paramTypes = map[string]string{
-		"PARAM_FLOOR":      "floor_select",
-		"PARAM_FURNITURE":  "furniture",
-		"PARAM_BUILT_TYPE": "builttype",
-		"PARAM_AREA":       "m",
-		"PARAM_ROOMS":      "rooms",
-		"PARAM_RENT":       "rent",
-	}
-
-	districts = map[int]string{
-		255: "Krowodrza",
-		259: "Bronowice",
-	}
 }

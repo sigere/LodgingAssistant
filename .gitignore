@@ -1,0 +1,7 @@
+/.idea
+/.env
+/go_build_github_com_sigere_LodgingAssistant_linux
+/go_build_main_go_linux
+/test.json
+/test.html
+/full.json
