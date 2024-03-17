@@ -9,7 +9,7 @@ import (
 	"strconv"
 )
 
-func notify(flat *Flat, recipient mail.Address) error {
+func notifyOne(flat *Flat, recipient mail.Address) error {
 	auth := smtp.PlainAuth(
 		"",
 		os.Getenv("MAIL_USERNAME"),
@@ -19,7 +19,10 @@ func notify(flat *Flat, recipient mail.Address) error {
 
 	from := mail.Address{Address: os.Getenv("MAIL_USERNAME")}
 	subj := "Take a look at new advert #" + strconv.Itoa(int(flat.ExtId))
-	body, _ := flat.ToMailBody()
+	body, err := flat.ToMailBody()
+	if err != nil {
+		return err
+	}
 
 	headers := map[string]string{
 		"From":         from.String(),

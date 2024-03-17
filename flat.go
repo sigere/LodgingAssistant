@@ -52,7 +52,15 @@ func (s *StringArray) Scan(value interface{}) error {
 }
 
 func (f *Flat) ToMailBody() (string, error) {
-	t, err := template.New("mail_template.tmpl").ParseFiles("mail_template.tmpl")
+	t, err := template.
+		New("mail_template.tmpl").
+		Funcs(template.FuncMap{
+			"safe": func(s string) template.HTML {
+				return template.HTML(s)
+			},
+		}).
+		ParseFiles("mail_template.tmpl")
+
 	if err != nil {
 		return "", err
 	}

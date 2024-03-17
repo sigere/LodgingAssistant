@@ -32,5 +32,10 @@ func GetDB() *gorm.DB {
 		panic(err)
 	}
 
+	err = db.AutoMigrate(&SearchConfig{})
+	if err != nil {
+		panic(err)
+	}
+
 	return db
 }
